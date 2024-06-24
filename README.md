@@ -123,6 +123,10 @@
 
 【报名截止：5.20】 [生物与农业工程学院](https://cbae.jlu.edu.cn/info/1034/8356.htm)
 
+## 国防科技大学
+
+【报名截止：6.29】 [空天科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13794)
+
 ## 同济大学
 
 【报名截止：6.20】 [上海自主智能无人系统科学中心](https://srias.tongji.edu.cn/1e/2d/c17827a335405/page.htm)
@@ -137,7 +141,7 @@
 
 【报名截止：6.5】 [国家卓越工程师学院](https://mefaculty.tongji.edu.cn/info/1023/4564.htm)
 
-## 北京航空航太难大学
+## 北京航空航天大学
 
 【报名截止：6.30】 [大科学装置研究院](https://piqs.buaa.edu.cn/info/1038/2252.htm)
 
@@ -148,6 +152,16 @@
 【报名截止：6.21】 [能源与动力工程学院](https://sepe.buaa.edu.cn/info/1104/7285.htm)
 
 【报名截止：6.16】 [航空发动机研究院](https://riae.buaa.edu.cn/info/1109/4966.htm)
+
+## 北京理工大学
+
+【报名截止：6.24】 [珠海校区](https://zh.bit.edu.cn/info/2871/8361.htm)
+
+【报名截止：6.24】 [化学与化工学院](https://cce.bit.edu.cn/tzgg/81fba5f6dee7468b9fc182d17a950328.htm)
+
+【报名截止：6.23】 [先进结构技术研究院](https://xjjg.bit.edu.cn/xwzx/tzgg/b38b3d92e4964573856b767907cb83a0.htm)
+
+【报名截止：6.23】 [机械与车辆学院](https://me.bit.edu.cn/tzgg/168980498eae46498986af20dee76ac9.htm)
 
 ## 武汉大学
 
@@ -179,7 +193,53 @@
 
 【报名截止：6.23】 [中欧清洁与可再生能源学院](http://icare.hust.edu.cn/info/1031/8387.htm)
 
+## 天津大学
 
+【报名截止：6.27】 [环境科学与工程学院](https://tjusee.tju.edu.cn/info/1126/3185.htm)
+
+【报名截止：6.22】 [机械工程学院](https://me.tju.edu.cn/academics_content.action?colid=7&cla=3&news.id=7302)
+
+【报名截止：6.19】 [佐治亚理工深圳学院](https://www.gtsi.edu.cn/node/4325)
+
+【报名截止：6.19】 [海洋科学与技术学院](https://marine.tju.edu.cn/info/1036/3585.htm)
+
+【报名截止：6.19】 [精密仪器与光电子工程学院](http://jyxy.tju.edu.cn/cn/new/20240530/2311.shtml)
+
+## 西北工业大学
+
+【报名截止：6.30】 [航空学院](https://hangkong.nwpu.edu.cn/info/1363/36704.htm)
+
+【报名截止：6.24】 [航海学院](https://hanghai.nwpu.edu.cn/info/1548/19922.htm)
+
+【报名截止：6.19】 [动力与能源学院](https://dongneng.nwpu.edu.cn/info/1032/12905.htm)
+
+## 四川大学
+
+【报名截止：6.30】 [碳中和未来技术学院](http://ccnft.scu.edu.cn/info/1033/1841.htm)
+
+【报名截止：6.26】 [空天科学与工程学院](https://saa.scu.edu.cn/info.htm?id=661716197201985&c=781494316834704)
+
+【报名截止：6.24】 [新能源与低碳技术研究院](https://inelt.scu.edu.cn/info/1011/1558.htm)
+
+【报名截止：6.21】 [机械工程学院](https://msec.scu.edu.cn/info/1091/5675.htm)
+
+## 东北大学
+
+【报名截止：6.26】 [机械工程与自动化学院](http://www.me.neu.edu.cn/2024/0612/c3402a256877/pagem.htm)
+
+【报名截止：6.20】 [冶金学院](http://www.som.neu.edu.cn/2024/0607/c8074a256669/page.htm)
+
+## 中国海洋大学
+
+【报名截止：6.18】 [工程学院](http://coe.ouc.edu.cn/2024/0607/c8976a466689/page.htm)
+
+## 重庆大学
+
+【报名截止：6.26】 [国家卓越工程师学院](https://eie.cqu.edu.cn/info/1483/2569.htm)
+
+【报名截止：6.23】 [能源与动力工程学院](https://cte.cqu.edu.cn/info/1336/8541.htm)
+
+【报名截止：6.20】 [土木工程](https://civil.cqu.edu.cn/info/1493/16848.htm)
 
 
 ## 湖南大学
@@ -197,6 +257,15 @@
 【报名截止：6.30】 [机电与信息工程学院](https://ie.wh.sdu.edu.cn/info/1007/14342.htm)
 
 【报名截止：6.26】 [海洋研究院](https://www.imst.sdu.edu.cn/info/1080/7196.htm)
+
+## 大连理工大学
+
+【报名截止：7.9】 [化工海洋与生命学院](https://hyxy.dlut.edu.cn/info/1184/8897.htm)
+
+【报名截止：7.7】 [机械工程学院](https://me.dlut.edu.cn/info/1064/9366.htm)
+
+【报名截止：7.2】 [力学与航空航天学院](https://lihang.dlut.edu.cn/info/1050/18971.htm)
+
 
 
 ## 兰州大学
@@ -239,3 +308,161 @@
 ## 中国工程物理研究院
 
 【报名截止：6.23】 [中国工程物理研究院](https://job.lzu.edu.cn/html/74/article/2024/71975.html)
+
+## 苏州大学
+
+【报名截止：6.16】 [能源学院](https://mp.weixin.qq.com/s/uc5UROzdR0HTKCiA48qckQ)
+
+## 南京师范大学
+
+【报名截止：6.15】 [能源与机械工程学院](http://energy.njnu.edu.cn/info/1057/29981.htm)
+
+## 华北电力大学
+
+【报名截止：6.30】 [能源动力与机械工程学院](https://thermal.ncepu.edu.cn/zspy/yjszspy/5c39f232eae445d68143bc065b13fe0d.htm)
+
+## 东华大学
+
+【报名截止：6.20】 [环境科学与工程学院](https://env.dhu.edu.cn/2024/0611/c19495a346781/page.htm)
+
+## 哈尔滨工程大学
+
+【报名截止：6.30】 [船舶工程学院](http://sec.hrbeu.edu.cn/2024/0607/c257a326316/page.htm)
+
+## 江南大学
+
+【报名截止：6.23】 [机械工程学院](https://sme.jiangnan.edu.cn/info/1070/7218.htm)
+
+## 西南交通大学
+
+【报名截止：7.2】 [机械工程学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=8B2A674BD1718039)
+
+【报名截止：6.19】 [力学与航空航天学院](https://lixue.swjtu.edu.cn/info/1060/11383.htm)
+
+## 合肥工业大学
+
+【报名截止：7.12】 [材料科学与工程学院](https://mse.hfut.edu.cn/info/1046/6140.htm)
+
+【报名截止：6.30】 [汽车与交通工程学院](https://qjxy.hfut.edu.cn/info/1092/6445.htm))
+
+## 上海大学
+
+【报名截止：6.27】 [机自学院机械工程学科](https://mae.shu.edu.cn/info/1012/2264.htm)
+
+## 大连海事大学
+
+【报名截止：7.2】 [船舶与海洋工程学院](https://www.dlmu.edu.cn/info/1060/76078.htm)
+
+## 中国矿业大学
+
+【报名截止：6.30】 [化工学院](https://scet.cumt.edu.cn/2f/6e/c6509a667502/page.htm)
+
+【报名截止：6.28】 [材料与物理学院](https://smsp.cumt.edu.cn/2e/7e/c18894a667262/page.htm)
+
+## 北京林业大学
+
+【报名截止：6.25】 [工学院](http://gxy.bjfu.edu.cn/yanjiushengjiaoyu/yanjiushengzhaosheng/21274a32d7724d258a3b613904be0943.html)
+
+## 北京化工大学
+
+【报名截止：6.24】 [中国五矿集团有限公司](https://graduate.buct.edu.cn/2024/0612/c1392a194482/page.htm)
+
+## 北京工业大学
+
+【报名截止：6.27】 [机械与能源工程学院](https://yanzhao.bjut.edu.cn/info/1025/15888.htm)
+
+## 南京理工大学
+
+【报名截止：7.1】 [瞬态物理全国重点实验室](https://mp.weixin.qq.com/s/Px5OX03N7039fU67ylxvhA)
+
+【报名截止：7.1】 [机械工程学院](https://mp.weixin.qq.com/s/_sBe7TvLvUmMyRYZTSkifA)
+
+## 西湖大学
+
+【报名截止：6.10】 [工学院](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)
+
+## 上海科技大学
+
+【报名截止：6.30】 [生物医学工程学院](https://mp.weixin.qq.com/s/QCbT2n5klB_LY0XLUvd-bQ)
+
+## 武汉理工大学
+
+【报名截止：6.28】 [交通与物流工程学院](https://stle.whut.edu.cn/yjsjx/zsxx/202406/t20240620_1004249.shtml)
+
+【报名截止：6.23】 [船海与能源动力工程学院](https://naoep.whut.edu.cn/yjsgz/yjszs/202406/t20240618_1004100.shtml)
+
+## 南方科技大学
+
+【报名截止：6.20】 [力学与航空航天工程系](https://mp.weixin.qq.com/s/oSnhH98H1OmcNGR8Q4HH1g)
+
+【报名截止：6.16】 [机械与能源工程系](https://mp.weixin.qq.com/s/-cskcfJ608o7RnGGA-vezA)
+
+【报名截止：6.12】 [量子科学与工程研究院](https://mp.weixin.qq.com/s/MEO2H26853EEf8CG_eg1yA)
+
+## 湖北大学
+
+【报名截止：6.15】 [材料科学与工程学院](https://matsci.hubu.edu.cn/info/1049/10188.htm)
+
+## 广东工业大学
+
+【报名截止：6.28】 [材料与能源学院](https://mp.weixin.qq.com/s/bwCo5N2KKsfdxS37mtwKNw)
+
+## 南京邮电大学
+
+【报名截止：6.30】 [材料科学与工程学院](https://iam.njupt.edu.cn/2024/0524/c6399a263724/pagem.htm)
+
+## 上海理工大学
+
+【报名截止：6.28】 [机械工程学院](https://me.usst.edu.cn/2024/0612/c12289a322174/page.htm)
+
+【报名截止：6.26】 [材料与化学学院](http://chxy.usst.edu.cn/2024/0606/c3679a321913/page.htm)
+
+【报名截止：6.25】 [能源与动力工程学院](http://ndxy.usst.edu.cn/2024/0530/c14344a321453/page.htm)
+
+## 湘潭大学
+
+【报名截止：7.9】 [机械工程与力学学院](https://jxgc.xtu.edu.cn/info/1021/5536.htm)
+
+## 三峡大学
+
+【报名截止：6.26】 [电气与新能源学院](https://newee.ctgu.edu.cn/info/1073/8490.htm)
+
+【报名截止：6.21】 [机械与动力学院](https://jxdl.ctgu.edu.cn/info/1160/11062.htm)
+
+## 深圳大学
+
+【报名截止：7.1】 [材料学院](https://mp.weixin.qq.com/s/bM9a3PGlSKIQGSf6Wzz5Lg)
+
+## 西南科技大学
+
+【报名截止：7.3】 [国防科技学院/核科学技术学院](https://nd.swust.edu.cn/2024/0613/c1661a197394/page.htm)
+
+## 湖南科技大学
+
+【报名截止：6.27】 [材料科学与工程学院](https://mse.hnust.edu.cn/tzgg/7ecd35adce084faaa913c8c0e0450ad5.htm)
+
+## 上海第二工业大学
+
+【报名截止：N/A】 [能源与材料学院](https://mp.weixin.qq.com/s/xbnnCkSeZGhjNo4xJsKsUg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

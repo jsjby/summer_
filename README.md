@@ -17,7 +17,7 @@
 
 ## 北京大学
 
-【报名截止：6.25】 [新材料学院](https://mp.weixin.qq.com/s/hEXEnCF3WRU-VrHEug1OQg)
+~~【报名截止：6.25】 [新材料学院](https://mp.weixin.qq.com/s/hEXEnCF3WRU-VrHEug1OQg)~~
 
 ~~【报名截止：6.15】 [环境与能源学院](https://see.pkusz.edu.cn/info/1009/1565.htm)~~
 

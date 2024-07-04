@@ -97,7 +97,7 @@
 
 【报名截止：7.10】 [未来技术学院](https://wljsxy.xjtu.edu.cn/info/1013/2414.htm)
 
-【报名截止：7.1】 [前沿科学技术研究院](https://mp.weixin.qq.com/s/bQWM4iLsMEgWOQsPKWmjXA)
+~~【报名截止：7.1】 [前沿科学技术研究院](https://mp.weixin.qq.com/s/bQWM4iLsMEgWOQsPKWmjXA)~~
 
 ~~【报名截止：6.25】 [机械工程学院](http://mec.xjtu.edu.cn/info/1076/14544.htm)~~
 
@@ -127,7 +127,7 @@
 
 ## 吉林大学
 
-【报名截止：7.3】 [仪器科学与电气工程学院](http://ciee.jlu.edu.cn/info/1082/14238.htm)
+~~【报名截止：7.3】 [仪器科学与电气工程学院](http://ciee.jlu.edu.cn/info/1082/14238.htm)~~
 
 ~~【报名截止：6.14】 [新能源与环境学院](https://cer.jlu.edu.cn/info/1105/8224.htm)~~
 
@@ -213,9 +213,11 @@
 
 ## 华中科技大学
 
-【报名截止：7.4】 [航空航天学院](https://ae.hust.edu.cn/info/1079/3258.htm)
+【报名截止：7.10】 [机械学院](https://mse.hust.edu.cn/info/1181/15213.htm)
 
-【报名截止：6.30】 [船舶与海洋工程学院](https://ch.hust.edu.cn/info/1039/3534.htm)
+~~【报名截止：7.4】 [航空航天学院](https://ae.hust.edu.cn/info/1079/3258.htm)~~
+
+~~【报名截止：6.30】 [船舶与海洋工程学院](https://ch.hust.edu.cn/info/1039/3534.htm)~~
 
 ~~【报名截止：6.25】 [能源与动力工程学院](https://energy.hust.edu.cn/info/1050/10094.htm)~~
 
@@ -251,7 +253,7 @@
 
 > [四川大学夏令营信息](https://yz.scu.edu.cn/zsxx/Details/077bf347-9320-487a-b4a8-69d30adb6ff7)
 
-【报名截止：6.30】 [碳中和未来技术学院](http://ccnft.scu.edu.cn/info/1033/1841.htm)
+~~【报名截止：6.30】 [碳中和未来技术学院](http://ccnft.scu.edu.cn/info/1033/1841.htm)~~
 
 ~~【报名截止：6.26】 [空天科学与工程学院](https://saa.scu.edu.cn/info.htm?id=661716197201985&c=781494316834704)~~
 
@@ -323,7 +325,7 @@
 
 【报名截止：7.15】 [空天院](https://mp.weixin.qq.com/s/BvGBijMhubCOETXM2fZuJA)
 
-【报名截止：7.3】 [北京纳米能源与系统研究所](http://www.binn.cas.cn/tzgg/tzgg/202405/t20240515_6967349.html)
+~~【报名截止：7.3】 [北京纳米能源与系统研究所](http://www.binn.cas.cn/tzgg/tzgg/202405/t20240515_6967349.html)~~
 
 ~~【报名截止：7.1】 [南京学院](https://www.ucas.ac.cn/tz/cd509d3bf835404ab82103d924bc0577.htm)~~
 
@@ -355,6 +357,10 @@
 
 ~~【报名截止：6.23】 [中国工程物理研究院](https://job.lzu.edu.cn/html/74/article/2024/71975.html)~~
 
+## 北京科技大学
+
+【报名截止：7.10】 [中国有研科技集团](https://mp.weixin.qq.com/s/KYOSUTsxxS8pQc11C6kJng)
+
 ## 北京交通大学
 
  > [北京交通大学夏令营信息](https://gs.bjtu.edu.cn/cms/zszt/item/3011.html)
@@ -364,6 +370,8 @@
 ## 苏州大学
 
 > [苏州大学夏令营信息](https://yjs.suda.edu.cn/b7/b6/c8386a571318/page.htm)
+
+~~【报名截止：6.20】 [未来科学与工程学院](https://mp.weixin.qq.com/s/QCPPs6NOlo9IUon4IJA__w)~~
 
 ~~【报名截止：6.16】 [能源学院](https://mp.weixin.qq.com/s/uc5UROzdR0HTKCiA48qckQ)~~
 
@@ -385,7 +393,7 @@
 
 ## 河海大学
 
-【报名截止：7.3】 [新能源学院](https://xny.hhu.edu.cn/2024/0627/c17725a285580/page.htm?_refluxos=a10)
+~~【报名截止：7.3】 [新能源学院](https://xny.hhu.edu.cn/2024/0627/c17725a285580/page.htm?_refluxos=a10)~~
 
 ## 江南大学
 
@@ -467,6 +475,8 @@
 
 ## 南京理工大学
 
+【报名截止：7.12】 [新能源学院](https://mp.weixin.qq.com/s/4BOpYLdtBpVUrUjpf7gzDg)
+
 【报名截止：7.10】 [能源与动力工程学院](https://mp.weixin.qq.com/s/X3Y1CivbzXXCf2-FZ0mSzA)
 
 ~~【报名截止：7.1】 [瞬态物理全国重点实验室](https://mp.weixin.qq.com/s/Px5OX03N7039fU67ylxvhA)~~
@@ -510,6 +520,8 @@
 ## 南京航空航天大学
 
 > [南京航空航天大学夏令营信息](http://www.graduate.nuaa.edu.cn/2024/0619/c2145a345396/page.htm)
+
+【报名截止：7.19】 [能源与动力学院](https://mp.weixin.qq.com/s/f5wU2txRYSqjt3HKk_5JRA)
 
 ## 湖北大学
 
@@ -573,7 +585,7 @@
 
 ## 西南科技大学
 
-【报名截止：7.3】 [国防科技学院/核科学技术学院](https://nd.swust.edu.cn/2024/0613/c1661a197394/page.htm)
+~~【报名截止：7.3】 [国防科技学院/核科学技术学院](https://nd.swust.edu.cn/2024/0613/c1661a197394/page.htm)~~
 
 ## 湖南科技大学
 

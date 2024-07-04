@@ -211,6 +211,8 @@
 
 【报名截止：7.31】 [机械工程学院](https://me.seu.edu.cn/2024/0625/c1549a495253/pagem.htm)
 
+【报名截止：7.26】 [能源与环境学院](https://power.seu.edu.cn/2024/0701/c9506a496094/pagem.htm)
+
 ## 华中科技大学
 
 【报名截止：7.10】 [机械学院](https://mse.hust.edu.cn/info/1181/15213.htm)
@@ -414,6 +416,8 @@
 ~~【报名截止：6.30】 [汽车与交通工程学院](https://qjxy.hfut.edu.cn/info/1092/6445.htm)~~
 
 ## 上海大学
+
+【报名截止：7.14】 [微电子学院](https://sme.shu.edu.cn/info/1030/4782.htm)
 
 ~~【报名截止：6.27】 [机自学院机械工程学科](https://mae.shu.edu.cn/info/1012/2264.htm)~~
 

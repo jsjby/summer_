@@ -313,9 +313,9 @@
 
 【报名截止：7.9】 [化工海洋与生命学院](https://hyxy.dlut.edu.cn/info/1184/8897.htm)
 
-【报名截止：7.7】 [机械工程学院](https://me.dlut.edu.cn/info/1064/9366.htm)
+~~【报名截止：7.7】 [机械工程学院](https://me.dlut.edu.cn/info/1064/9366.htm)~~
 
-【报名截止：7.5】 [能源与动力学院](https://power.dlut.edu.cn/info/4527/23398.htm)
+~~【报名截止：7.5】 [能源与动力学院](https://power.dlut.edu.cn/info/4527/23398.htm)~~
 
 ~~【报名截止：7.2】 [力学与航空航天学院](https://lihang.dlut.edu.cn/info/1050/18971.htm)~~
 
@@ -541,7 +541,7 @@
 
 ## 青岛理工大学
 
-【报名截止：7.7】 [青岛理工大学](https://yjsh.qut.edu.cn/info/1097/3428.htm)
+~~【报名截止：7.7】 [青岛理工大学](https://yjsh.qut.edu.cn/info/1097/3428.htm)~~
 
 ## 上海理工大学
 
@@ -554,6 +554,14 @@
 ## 湘潭大学
 
 【报名截止：7.9】 [机械工程与力学学院](https://jxgc.xtu.edu.cn/info/1021/5536.htm)
+
+## 西南石油大学
+
+【报名截止：7.11】 [新能源与材料学院](https://www.swpu.edu.cn/cly/info/1003/12125.htm)
+
+## 湖北工业大学
+
+【报名截止：7.11】 [机械工程学院](https://tsme.hbut.edu.cn/info/1026/5569.htm)
 
 ##  重庆交通大学
 

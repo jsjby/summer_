@@ -311,7 +311,7 @@
 
  > [大连理工大学夏令营信息](https://gs.dlut.edu.cn/info/1173/14706.htm)
 
-【报名截止：7.9】 [化工海洋与生命学院](https://hyxy.dlut.edu.cn/info/1184/8897.htm)
+~~【报名截止：7.9】 [化工海洋与生命学院](https://hyxy.dlut.edu.cn/info/1184/8897.htm)~~
 
 ~~【报名截止：7.7】 [机械工程学院](https://me.dlut.edu.cn/info/1064/9366.htm)~~
 
@@ -361,7 +361,7 @@
 
 ## 北京科技大学
 
-【报名截止：7.10】 [中国有研科技集团](https://mp.weixin.qq.com/s/KYOSUTsxxS8pQc11C6kJng)
+~~【报名截止：7.10】 [中国有研科技集团](https://mp.weixin.qq.com/s/KYOSUTsxxS8pQc11C6kJng)~~
 
 ## 北京交通大学
 
@@ -443,6 +443,8 @@
 
 > [中国石油大学（华东）](http://zs.gs.upc.edu.cn/2024/0618/c10710a434335/page.htm)
 
+【报名截止：8.7】[新能源学院（华东）](https://ne.upc.edu.cn/2024/0710/c14962a435975/page.htm)
+
 ~~【报名截止：7.1】[石油工程学院](https://pe.upc.edu.cn/2024/0614/c20312a434122/page.htm)~~
 
 ~~【报名截止：7.1】[（北京）新能源与材料学院](https://www.cup.edu.cn/cnem/tzgg/72277e3ff42549118ca1ca334cff05d1.htm)~~
@@ -481,7 +483,7 @@
 
 【报名截止：7.12】 [新能源学院](https://mp.weixin.qq.com/s/4BOpYLdtBpVUrUjpf7gzDg)
 
-【报名截止：7.10】 [能源与动力工程学院](https://mp.weixin.qq.com/s/X3Y1CivbzXXCf2-FZ0mSzA)
+~~【报名截止：7.10】 [能源与动力工程学院](https://mp.weixin.qq.com/s/X3Y1CivbzXXCf2-FZ0mSzA)~~
 
 ~~【报名截止：7.1】 [瞬态物理全国重点实验室](https://mp.weixin.qq.com/s/Px5OX03N7039fU67ylxvhA)~~
 
@@ -553,7 +555,7 @@
 
 ## 湘潭大学
 
-【报名截止：7.9】 [机械工程与力学学院](https://jxgc.xtu.edu.cn/info/1021/5536.htm)
+~~【报名截止：7.9】 [机械工程与力学学院](https://jxgc.xtu.edu.cn/info/1021/5536.htm)~~
 
 ## 西南石油大学
 
@@ -605,7 +607,7 @@
 
 ## 湖北文理学院
 
-【报名截止：7.8】 [机械工程学院](https://jxgcxy.hbuas.edu.cn/info/1034/3479.htm)
+~~【报名截止：7.8】 [机械工程学院](https://jxgcxy.hbuas.edu.cn/info/1034/3479.htm)~~
 
 ## 上海第二工业大学
 

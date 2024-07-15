@@ -81,7 +81,7 @@
 
 > [浙江大学夏令营信息](http://www.grs.zju.edu.cn/yjszs/2024/0523/c28487a2921525/page.htm)
 
-【报名截止：7.10】 [工程师学院](https://pi.zju.edu.cn/2024/0620/c67026a2937382/page.htm)
+~~【报名截止：7.10】 [工程师学院](https://pi.zju.edu.cn/2024/0620/c67026a2937382/page.htm)~~
 
 ~~【报名截止：6.27】 [伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2616)~~
 
@@ -95,7 +95,7 @@
 
 ## 西安交通大学
 
-【报名截止：7.10】 [未来技术学院](https://wljsxy.xjtu.edu.cn/info/1013/2414.htm)
+~~【报名截止：7.10】 [未来技术学院](https://wljsxy.xjtu.edu.cn/info/1013/2414.htm)~~
 
 ~~【报名截止：7.1】 [前沿科学技术研究院](https://mp.weixin.qq.com/s/bQWM4iLsMEgWOQsPKWmjXA)~~
 
@@ -215,7 +215,7 @@
 
 ## 华中科技大学
 
-【报名截止：7.10】 [机械学院](https://mse.hust.edu.cn/info/1181/15213.htm)
+~~【报名截止：7.10】 [机械学院](https://mse.hust.edu.cn/info/1181/15213.htm)~~
 
 ~~【报名截止：7.4】 [航空航天学院](https://ae.hust.edu.cn/info/1079/3258.htm)~~
 
@@ -325,7 +325,7 @@
 
 ## 中国科学院
 
-【报名截止：7.15】 [空天院](https://mp.weixin.qq.com/s/BvGBijMhubCOETXM2fZuJA)
+~~【报名截止：7.15】 [空天院](https://mp.weixin.qq.com/s/BvGBijMhubCOETXM2fZuJA)~~
 
 ~~【报名截止：7.3】 [北京纳米能源与系统研究所](http://www.binn.cas.cn/tzgg/tzgg/202405/t20240515_6967349.html)~~
 
@@ -411,13 +411,13 @@
 
 ## 合肥工业大学
 
-【报名截止：7.12】 [材料科学与工程学院](https://mse.hfut.edu.cn/info/1046/6140.htm)
+~~【报名截止：7.12】 [材料科学与工程学院](https://mse.hfut.edu.cn/info/1046/6140.htm)~~
 
 ~~【报名截止：6.30】 [汽车与交通工程学院](https://qjxy.hfut.edu.cn/info/1092/6445.htm)~~
 
 ## 上海大学
 
-【报名截止：7.14】 [微电子学院](https://sme.shu.edu.cn/info/1030/4782.htm)
+~~【报名截止：7.14】 [微电子学院](https://sme.shu.edu.cn/info/1030/4782.htm)~~
 
 ~~【报名截止：6.27】 [机自学院机械工程学科](https://mae.shu.edu.cn/info/1012/2264.htm)~~
 
@@ -481,7 +481,7 @@
 
 ## 南京理工大学
 
-【报名截止：7.12】 [新能源学院](https://mp.weixin.qq.com/s/4BOpYLdtBpVUrUjpf7gzDg)
+~~【报名截止：7.12】 [新能源学院](https://mp.weixin.qq.com/s/4BOpYLdtBpVUrUjpf7gzDg)~~
 
 ~~【报名截止：7.10】 [能源与动力工程学院](https://mp.weixin.qq.com/s/X3Y1CivbzXXCf2-FZ0mSzA)~~
 
@@ -559,11 +559,15 @@
 
 ## 西南石油大学
 
-【报名截止：7.11】 [新能源与材料学院](https://www.swpu.edu.cn/cly/info/1003/12125.htm)
+~~【报名截止：7.11】 [新能源与材料学院](https://www.swpu.edu.cn/cly/info/1003/12125.htm)~~
+
+## 东北石油大学
+
+【报名截止：7.18】 [石油工程学院](https://sygcxy.nepu.edu.cn/info/1021/3184.htm)
 
 ## 湖北工业大学
 
-【报名截止：7.11】 [机械工程学院](https://tsme.hbut.edu.cn/info/1026/5569.htm)
+~~【报名截止：7.11】 [机械工程学院](https://tsme.hbut.edu.cn/info/1026/5569.htm)~~
 
 ##  重庆交通大学
 

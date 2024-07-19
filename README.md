@@ -25,7 +25,7 @@
 
 ## 上海交通大学
 
-【报名截止：7月中旬】 [溥渊未来技术学院](https://mp.weixin.qq.com/s/8NyUWzqrmG6579I5QPTDng)
+~~【报名截止：7月中旬】 [溥渊未来技术学院](https://mp.weixin.qq.com/s/8NyUWzqrmG6579I5QPTDng)~~
 
 ~~【报名截止：6.26】 [中英国际低碳学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbf.aspx)~~
 
@@ -363,6 +363,8 @@
 
 ~~【报名截止：7.10】 [中国有研科技集团](https://mp.weixin.qq.com/s/KYOSUTsxxS8pQc11C6kJng)~~
 
+【报名截止：8.21】 [机械工程学院](https://me.ustb.edu.cn/tongzhigonggao/2024-07-19/2454.html)
+
 ## 北京交通大学
 
  > [北京交通大学夏令营信息](https://gs.bjtu.edu.cn/cms/zszt/item/3011.html)
@@ -431,7 +433,7 @@
 
 > [中国矿业大学夏令营信息](https://yz.cumt.edu.cn/info/1004/2106.htm)
 
-【报名截止：7.18】 [矿物加工工程系（北京）](https://scee.cumtb.edu.cn/info/1083/3581.htm)
+~~【报名截止：7.18】 [矿物加工工程系（北京）](https://scee.cumtb.edu.cn/info/1083/3581.htm)~~
 
 ~~【报名截止：7.1】 [能源与矿业学院（北京）](https://nyxy.cumtb.edu.cn/info/1103/8011.htm)~~
 

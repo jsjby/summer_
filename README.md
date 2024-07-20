@@ -361,6 +361,8 @@
 
 ## 北京科技大学
 
+ > [北京科技大预推免信息](https://yzxc.ustb.edu.cn/xlytm/hdap/0b8e3ab055724b2eb002f7105c7e722f.htm)
+
 ~~【报名截止：7.10】 [中国有研科技集团](https://mp.weixin.qq.com/s/KYOSUTsxxS8pQc11C6kJng)~~
 
 【报名截止：8.21】 [机械工程学院](https://me.ustb.edu.cn/tongzhigonggao/2024-07-19/2454.html)

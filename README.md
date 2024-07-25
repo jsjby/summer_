@@ -63,6 +63,8 @@
 
 > [哈尔滨工业大学夏令营消息](http://yzb.hit.edu.cn/2024/0506/c8824a343961/page.htm) | [哈尔滨工业大学（威海）暑期夏令营信息](https://today.hitwh.edu.cn/2024/0507/c1024a182481/page.htm) | [哈尔滨工业大学（深圳）夏令营信息](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=a684dc6879a84bef879effe772d8c2c5&xxlm=04)
 
+【报名截止：8.8】 [苏州研究院](https://mp.weixin.qq.com/s/KrlnlCTs1r6MiilSC-5sTA)
+
 ~~【报名截止：6.7】 [机电工程与自动化学院（深圳）](http://smea.hitsz.edu.cn/info/1014/2462.htm)~~
 
 ~~【报名截止：6.7】 [材料科学与工程学院](https://mse.hit.edu.cn/2024/0521/c16847a345237/page.htm)~~
@@ -138,6 +140,8 @@
 ~~【报名截止：5.20】 [生物与农业工程学院](https://cbae.jlu.edu.cn/info/1034/8356.htm)~~
 
 ## 国防科技大学
+
+> [国防科技大学预推免信息](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13804)
 
 ~~【报名截止：6.29】 [空天科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13794)~~
 
@@ -392,6 +396,10 @@
 ## 东华大学
 
 ~~【报名截止：6.20】 [环境科学与工程学院](https://env.dhu.edu.cn/2024/0611/c19495a346781/page.htm)~~
+
+## 空军工程大学
+
+【报名截止：8.8】 [空军工程大学](https://www.afeu.cn:1001/notice-announcement/462/)
 
 ## 哈尔滨工程大学
 

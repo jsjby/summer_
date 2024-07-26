@@ -65,6 +65,8 @@
 
 【报名截止：8.8】 [苏州研究院](https://mp.weixin.qq.com/s/KrlnlCTs1r6MiilSC-5sTA)
 
+【报名截止：8.6】 [郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)
+
 ~~【报名截止：6.7】 [机电工程与自动化学院（深圳）](http://smea.hitsz.edu.cn/info/1014/2462.htm)~~
 
 ~~【报名截止：6.7】 [材料科学与工程学院](https://mse.hit.edu.cn/2024/0521/c16847a345237/page.htm)~~
@@ -325,6 +327,8 @@
 
 ## 兰州大学
 
+ > [兰州大学预推免信息](https://mp.weixin.qq.com/s/mJDzb8C-UimoBANGzW81gQ)
+
 ~~【报名截止：6.25】 [材料与能源学院](https://mat.lzu.edu.cn/tongzhigonggao/2024/0603/270590.html)~~
 
 ## 中国科学院
@@ -513,6 +517,10 @@
 
 ~~【报名截止：6.30】 [生物医学工程学院](https://mp.weixin.qq.com/s/QCbT2n5klB_LY0XLUvd-bQ)~~
 
+## 长江大学
+
+~~【报名截止：7.26】 [石油工程学院](https://pec.yangtzeu.edu.cn/info/1132/7915.htm)~~
+
 ## 江西农业大学
 
 > [江西农业大学夏令营信息](https://yanjiusheng.jxau.edu.cn/13/19/c1035a135961/page.htm)
@@ -575,7 +583,7 @@
 
 ## 东北石油大学
 
-【报名截止：7.18】 [石油工程学院](https://sygcxy.nepu.edu.cn/info/1021/3184.htm)
+~~【报名截止：7.18】 [石油工程学院](https://sygcxy.nepu.edu.cn/info/1021/3184.htm)~~
 
 ## 湖北工业大学
 

@@ -63,6 +63,8 @@
 
 > [哈尔滨工业大学夏令营消息](http://yzb.hit.edu.cn/2024/0506/c8824a343961/page.htm) | [哈尔滨工业大学（威海）暑期夏令营信息](https://today.hitwh.edu.cn/2024/0507/c1024a182481/page.htm) | [哈尔滨工业大学（深圳）夏令营信息](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=a684dc6879a84bef879effe772d8c2c5&xxlm=04)
 
+> [哈尔滨工业大学预推免消息](http://yzb.hit.edu.cn/2024/0727/c8822a349360/page.htm)
+
 【报名截止：8.8】 [苏州研究院](https://mp.weixin.qq.com/s/KrlnlCTs1r6MiilSC-5sTA)
 
 【报名截止：8.6】 [郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)
@@ -217,7 +219,7 @@
 
 【报名截止：7.31】 [机械工程学院](https://me.seu.edu.cn/2024/0625/c1549a495253/pagem.htm)
 
-【报名截止：7.26】 [能源与环境学院](https://power.seu.edu.cn/2024/0701/c9506a496094/pagem.htm)
+~~【报名截止：7.26】 [能源与环境学院](https://power.seu.edu.cn/2024/0701/c9506a496094/pagem.htm)~~
 
 ## 华中科技大学
 
@@ -401,9 +403,13 @@
 
 ~~【报名截止：6.20】 [环境科学与工程学院](https://env.dhu.edu.cn/2024/0611/c19495a346781/page.htm)~~
 
-## 空军工程大学
+## 中国人民解放军空军工程大学
 
 【报名截止：8.8】 [空军工程大学](https://www.afeu.cn:1001/notice-announcement/462/)
+
+##  中国人民解放军海军工程大学
+
+【报名截止：8.7】[海军工程大学](https://mp.weixin.qq.com/s/5ta-zmIJifMMTLR4eMNtqg)
 
 ## 哈尔滨工程大学
 
@@ -547,7 +553,7 @@
 
 > [南京航空航天大学夏令营信息](http://www.graduate.nuaa.edu.cn/2024/0619/c2145a345396/page.htm)
 
-【报名截止：7.19】 [能源与动力学院](https://mp.weixin.qq.com/s/f5wU2txRYSqjt3HKk_5JRA)
+~~【报名截止：7.19】 [能源与动力学院](https://mp.weixin.qq.com/s/f5wU2txRYSqjt3HKk_5JRA)~~
 
 ## 湖北大学
 

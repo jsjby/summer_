@@ -65,6 +65,8 @@
 
 > [哈尔滨工业大学预推免消息](http://yzb.hit.edu.cn/2024/0727/c8822a349360/page.htm)
 
+【报名截止：N/A】[机电工程学院](https://sme.hit.edu.cn/2024/0730/c17968a349567/page.htm)
+
 【报名截止：8.8】 [苏州研究院](https://mp.weixin.qq.com/s/KrlnlCTs1r6MiilSC-5sTA)
 
 【报名截止：8.6】 [郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)
@@ -273,7 +275,9 @@
 
 ## 东北大学
 
- > [东北大学夏令营信息](http://yz.neu.edu.cn/2024/0606/c5932a256581/pagem.htm)
+> [东北大学夏令营信息](http://yz.neu.edu.cn/2024/0606/c5932a256581/pagem.htm)
+
+> [东北大学预推免信息](http://yz.neu.edu.cn/2024/0729/c5932a266900/page.htm)
 
 ~~【报名截止：6.26】 [机械工程与自动化学院](http://www.me.neu.edu.cn/2024/0612/c3402a256877/pagem.htm)~~
 
@@ -317,7 +321,9 @@
 
 ## 大连理工大学
 
- > [大连理工大学夏令营信息](https://gs.dlut.edu.cn/info/1173/14706.htm)
+> [大连理工大学夏令营信息](https://gs.dlut.edu.cn/info/1173/14706.htm)
+
+> [大连理工大学预推免信息](https://gs.dlut.edu.cn/info/1173/14906.htm)
 
 ~~【报名截止：7.9】 [化工海洋与生命学院](https://hyxy.dlut.edu.cn/info/1184/8897.htm)~~
 
@@ -332,6 +338,10 @@
  > [兰州大学预推免信息](https://mp.weixin.qq.com/s/mJDzb8C-UimoBANGzW81gQ)
 
 ~~【报名截止：6.25】 [材料与能源学院](https://mat.lzu.edu.cn/tongzhigonggao/2024/0603/270590.html)~~
+
+## 中国科学院大学
+
+【报名截止：N/A】[核科学与技术学院](https://nuclear.ucas.ac.cn/index.php/zh-cn/zsjy/zs/bkxz/4200-tm1tz)
 
 ## 中国科学院
 
@@ -410,6 +420,10 @@
 ##  中国人民解放军海军工程大学
 
 【报名截止：8.7】[海军工程大学](https://mp.weixin.qq.com/s/5ta-zmIJifMMTLR4eMNtqg)
+
+##  中国人民解放军信息工程大学
+
+【报名截止：9.25】[信息工程大学](https://mp.weixin.qq.com/s/3JCsfuMNY4Y-I9KNYItBdg)
 
 ## 哈尔滨工程大学
 

@@ -219,7 +219,7 @@
 
 【报名截止：8.1】 [自动化学院](https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm)
 
-【报名截止：7.31】 [机械工程学院](https://me.seu.edu.cn/2024/0625/c1549a495253/pagem.htm)
+~~【报名截止：7.31】 [机械工程学院](https://me.seu.edu.cn/2024/0625/c1549a495253/pagem.htm)~~
 
 ~~【报名截止：7.26】 [能源与环境学院](https://power.seu.edu.cn/2024/0701/c9506a496094/pagem.htm)~~
 
@@ -445,6 +445,10 @@
 
 ~~【报名截止：6.19】 [力学与航空航天学院](https://lixue.swjtu.edu.cn/info/1060/11383.htm)~~
 
+## 西安财经大学
+
+> [西安财经大学预推免信息](https://yz.swufe.edu.cn/info/1101/12151.htm)
+
 ## 合肥工业大学
 
 ~~【报名截止：7.12】 [材料科学与工程学院](https://mse.hfut.edu.cn/info/1046/6140.htm)~~
@@ -496,6 +500,8 @@
 ## 北京工商大学
 
 > [北京工商大学](https://yjs.btbu.edu.cn/zsgz/sszs/616b717e406643429ea1cdf6b921828a.htm)
+
+【报名截止：8.16】[计算机与人工智能学院](https://mp.weixin.qq.com/s/dRpnxnVw_lUCZtybOavvYA)
 
 ## 北京信息科技大学
 

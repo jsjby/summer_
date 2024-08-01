@@ -67,6 +67,8 @@
 
 【报名截止：N/A】[机电工程学院](https://sme.hit.edu.cn/2024/0730/c17968a349567/page.htm)
 
+【报名截止：N/A】[电气工程及自动化学院](https://hitee.hit.edu.cn/2024/0801/c17101a349641/page.htm)
+
 【报名截止：8.8】 [苏州研究院](https://mp.weixin.qq.com/s/KrlnlCTs1r6MiilSC-5sTA)
 
 【报名截止：8.6】 [郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)
@@ -169,6 +171,8 @@
 
 > [北航夏令营信息](https://mp.weixin.qq.com/s/Xmpb74tyPoDMKTWwl7i2jQ)
 
+【报名截止：8.14】[无人系统研究院 ](https://wrj.buaa.edu.cn/info/1008/2226.htm)
+
 ~~【报名截止：6.30】 [大科学装置研究院](https://piqs.buaa.edu.cn/info/1038/2252.htm)~~
 
 ~~【报名截止：6.26】 [国家卓越工程师学院](https://hc.buaa.edu.cn/info/1083/3602.htm)~~
@@ -238,6 +242,10 @@
 ## 天津大学
 
 >  [天津大学夏令营](https://yzb.tju.edu.cn/xwzx/zxxx/202406/t20240605_323809.htm)
+
+> [天津大学预推免信息](http://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240706_323840.htm)
+
+【报名截止：9.5】[国优计划](https://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240731_323856.htm)
 
 ~~【报名截止：6.27】 [环境科学与工程学院](https://tjusee.tju.edu.cn/info/1126/3185.htm)~~
 
@@ -381,7 +389,9 @@
 
 ## 北京科技大学
 
- > [北京科技大预推免信息](https://yzxc.ustb.edu.cn/xlytm/hdap/0b8e3ab055724b2eb002f7105c7e722f.htm)
+> [北京科技大预推免信息](https://yzxc.ustb.edu.cn/xlytm/hdap/0b8e3ab055724b2eb002f7105c7e722f.htm)
+
+【报名截止：8.30】[智能科学与技术学院](https://ai.ustb.edu.cn/xwgg/tzgg/908112fddf1441dbb189557b9b768cfe.htm)
 
 ~~【报名截止：7.10】 [中国有研科技集团](https://mp.weixin.qq.com/s/KYOSUTsxxS8pQc11C6kJng)~~
 
@@ -396,6 +406,8 @@
 ## 苏州大学
 
 > [苏州大学夏令营信息](https://yjs.suda.edu.cn/b7/b6/c8386a571318/page.htm)
+
+【报名截止：N/A】 [物理科学与技术学院](https://mp.weixin.qq.com/s/reyseKHQHCxJCvzNOmfaAw)
 
 ~~【报名截止：6.20】 [未来科学与工程学院](https://mp.weixin.qq.com/s/QCPPs6NOlo9IUon4IJA__w)~~
 

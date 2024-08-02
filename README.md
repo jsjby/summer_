@@ -155,6 +155,8 @@
 
 ## 同济大学
 
+【报名截止：8.16】 [国优计划](https://gs.tongji.edu.cn/info/1092/3678.htm)
+
 ~~【报名截止：6.20】 [上海自主智能无人系统科学中心](https://srias.tongji.edu.cn/1e/2d/c17827a335405/page.htm)~~
 
 ~~【报名截止：6.16】 [汽车学院](https://auto.tongji.edu.cn/info/1013/10081.htm)~~

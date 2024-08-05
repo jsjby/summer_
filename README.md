@@ -47,6 +47,8 @@
 
 > [南京大学夏令营信息](https://grawww.nju.edu.cn/64/88/c905a681096/page.htm)
 
+> [南京大学预推免消息](https://yzb.nju.edu.cn/yw/ca/fd/c48430a707325/page.htm)
+
 ~~【报名截止：6.20】 [能源与资源学院](https://sser.nju.edu.cn/info/1012/1841.htm)~~
 
 ~~【报名截止：6.15】 [功能材料与智能制造研究院](https://eng.nju.edu.cn/75/b2/c4968a685490/page.htm)~~
@@ -64,6 +66,8 @@
 > [哈尔滨工业大学夏令营消息](http://yzb.hit.edu.cn/2024/0506/c8824a343961/page.htm) | [哈尔滨工业大学（威海）暑期夏令营信息](https://today.hitwh.edu.cn/2024/0507/c1024a182481/page.htm) | [哈尔滨工业大学（深圳）夏令营信息](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=a684dc6879a84bef879effe772d8c2c5&xxlm=04)
 
 > [哈尔滨工业大学预推免消息](http://yzb.hit.edu.cn/2024/0727/c8822a349360/page.htm)
+
+> [哈尔滨工业大学（威海）预推免消息](https://yjsc.hitwh.edu.cn/2024/0805/c934a185979/page.htm)
 
 【报名截止：N/A】[机电工程学院](https://sme.hit.edu.cn/2024/0730/c17968a349567/page.htm)
 
@@ -90,6 +94,8 @@
 ## 浙江大学
 
 > [浙江大学夏令营信息](http://www.grs.zju.edu.cn/yjszs/2024/0523/c28487a2921525/page.htm)
+
+> [浙江大学预推免消息](http://www.grs.zju.edu.cn/yjszs/2024/0805/c28498a2951455/page.htm)
 
 ~~【报名截止：7.10】 [工程师学院](https://pi.zju.edu.cn/2024/0620/c67026a2937382/page.htm)~~
 
@@ -223,7 +229,7 @@
 
 >  [东南大学夏令营](https://yzb.seu.edu.cn/2024/0613/c6676a493845/page.htm)
 
-【报名截止：8.1】 [自动化学院](https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm)
+~~【报名截止：8.1】 [自动化学院](https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm)~~
 
 ~~【报名截止：7.31】 [机械工程学院](https://me.seu.edu.cn/2024/0625/c1549a495253/pagem.htm)~~
 

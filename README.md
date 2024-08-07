@@ -441,7 +441,7 @@
 
 ##  中国人民解放军海军工程大学
 
-【报名截止：8.7】[海军工程大学](https://mp.weixin.qq.com/s/5ta-zmIJifMMTLR4eMNtqg)
+~~【报名截止：8.7】[海军工程大学](https://mp.weixin.qq.com/s/5ta-zmIJifMMTLR4eMNtqg)~~
 
 ##  中国人民解放军信息工程大学
 
@@ -505,7 +505,7 @@
 
 > [中国石油大学（华东）](http://zs.gs.upc.edu.cn/2024/0618/c10710a434335/page.htm)
 
-【报名截止：8.7】[新能源学院（华东）](https://ne.upc.edu.cn/2024/0710/c14962a435975/page.htm)
+~~【报名截止：8.7】[新能源学院（华东）](https://ne.upc.edu.cn/2024/0710/c14962a435975/page.htm)~~
 
 ~~【报名截止：7.1】[石油工程学院](https://pe.upc.edu.cn/2024/0614/c20312a434122/page.htm)~~
 
@@ -562,6 +562,8 @@
 ~~【报名截止：6.10】 [工学院](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)~~
 
 ## 上海科技大学
+
+【报名截止：9.18】[物质科学与技术学院](https://mp.weixin.qq.com/s/peEFYTQxa0feBJ2lU8hV9A)
 
 ~~【报名截止：6.30】 [生物医学工程学院](https://mp.weixin.qq.com/s/QCbT2n5klB_LY0XLUvd-bQ)~~
 
@@ -656,6 +658,10 @@
 ## 武汉科技大学
 
 > [武汉科技大学夏令营信息](https://ysxy.wust.edu.cn/info/1831/44102.htm)
+
+## 东华大学
+
+> [东华大学预推免信息](https://yjszs.dhu.edu.cn/2024/0807/c7127a349630/page.htm)
 
 ## 三峡大学
 

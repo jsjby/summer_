@@ -75,7 +75,9 @@
 
 【报名截止：N/A】[新能源学院（威海）](https://newenergy.hitwh.edu.cn/2024/0805/c1522a185985/page.htm)
 
-【报名截止：8.8】 [苏州研究院](https://mp.weixin.qq.com/s/KrlnlCTs1r6MiilSC-5sTA)
+【报名截止：N/A】[（威海） 计算机科学与技术学院](https://cst.hitwh.edu.cn/2024/0808/c371a186070/page.htm)
+
+~~【报名截止：8.8】 [苏州研究院](https://mp.weixin.qq.com/s/KrlnlCTs1r6MiilSC-5sTA)~~
 
 ~~【报名截止：8.6】 [郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)~~
 
@@ -98,6 +100,8 @@
 > [浙江大学夏令营信息](http://www.grs.zju.edu.cn/yjszs/2024/0523/c28487a2921525/page.htm)
 
 > [浙江大学预推免消息](http://www.grs.zju.edu.cn/yjszs/2024/0805/c28498a2951455/page.htm)
+
+【报名截止：9.10】[工程师学院](https://pi.zju.edu.cn/2024/0808/c67026a2952040/page.htm)
 
 ~~【报名截止：7.10】 [工程师学院](https://pi.zju.edu.cn/2024/0620/c67026a2937382/page.htm)~~
 
@@ -256,6 +260,8 @@
 > [天津大学预推免信息](http://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240706_323840.htm)
 
 【报名截止：9.5】[国优计划](https://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240731_323856.htm)
+
+【报名截止：8.30】[卓越工程师](http://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240807_323857.htm)
 
 ~~【报名截止：6.27】 [环境科学与工程学院](https://tjusee.tju.edu.cn/info/1126/3185.htm)~~
 
@@ -554,6 +560,10 @@
 ~~【报名截止：7.1】 [机械工程学院](https://mp.weixin.qq.com/s/_sBe7TvLvUmMyRYZTSkifA)~~
 
 ~~【报名截止：6.27】 [中法工程师学院](https://mp.weixin.qq.com/s/v2cjTwtyMkMiDsIrv5_ZUw)~~
+
+## 西北大学
+
+> [西北大学预推免信息](https://yjs.nwu.edu.cn/info/1013/4693.htm)
 
 ## 西湖大学
 

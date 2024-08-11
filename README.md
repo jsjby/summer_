@@ -103,6 +103,10 @@
 
 【报名截止：9.10】[工程师学院](https://pi.zju.edu.cn/2024/0808/c67026a2952040/page.htm)
 
+【报名截止：9.10】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2660)
+
+【报名截止：9.9】[海洋学院](http://oc.zju.edu.cn/2024/0810/c52420a2952624/page.htm)
+
 ~~【报名截止：7.10】 [工程师学院](https://pi.zju.edu.cn/2024/0620/c67026a2937382/page.htm)~~
 
 ~~【报名截止：6.27】 [伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2616)~~
@@ -398,6 +402,10 @@
 ~~【报名截止：6.20】 [宁波材料所](https://ncmte.nimte.ac.cn/view-28877.html)~~
 
 ~~【报名截止：1.7】 [沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202312/t20231211_6941966.html)~~
+
+## 西安电子科技大学
+
+【报名截止：9.22】[​卓越工程师学院长三角基地](https://mp.weixin.qq.com/s/_IKz_8qH_TaAGZf-PG9Quw)
 
 ## 中国工程物理研究院
 

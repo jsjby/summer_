@@ -69,7 +69,13 @@
 
 > [哈尔滨工业大学（威海）预推免消息](https://yjsc.hitwh.edu.cn/2024/0805/c934a185979/page.htm)
 
+> [哈尔滨工业大学（深圳）预推免消息](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=9583acaddb384fc4b31eced3a39df7be&xxlm=04)
+
 【报名截止：N/A】[机电工程学院](https://sme.hit.edu.cn/2024/0730/c17968a349567/page.htm)
+
+【报名截止：N/A】[材料科学与工程学院](https://mse.hit.edu.cn/2024/0809/c16847a350850/page.htm)
+
+【报名截止：N/A】[威海） 汽车工程学院](https://auto.hitwh.edu.cn/2024/0808/c189a186089/page.htm)
 
 【报名截止：N/A】[电气工程及自动化学院](https://hitee.hit.edu.cn/2024/0801/c17101a349641/page.htm)
 
@@ -102,6 +108,8 @@
 > [浙江大学预推免消息](http://www.grs.zju.edu.cn/yjszs/2024/0805/c28498a2951455/page.htm)
 
 【报名截止：9.10】[工程师学院](https://pi.zju.edu.cn/2024/0808/c67026a2952040/page.htm)
+
+【报名截止：9.10】[软件学院](http://www.cst.zju.edu.cn/2024/0811/c32178a2952716/page.htm)
 
 【报名截止：9.10】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2660)
 
@@ -475,6 +483,10 @@
 
 ~~【报名截止：6.23】 [机械工程学院](https://sme.jiangnan.edu.cn/info/1070/7218.htm)~~
 
+## 暨南大学
+
+> [暨南大学预推免信息](https://yz.jnu.edu.cn/2024/0810/c33059a819263/page.htm)
+
 ## 西南交通大学
 
 ~~【报名截止：7.2】 [机械工程学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=8B2A674BD1718039)~~
@@ -526,6 +538,10 @@
 ~~【报名截止：7.1】[（北京）新能源与材料学院](https://www.cup.edu.cn/cnem/tzgg/72277e3ff42549118ca1ca334cff05d1.htm)~~
 
 ~~【报名截止：7.1】[（北京）机械与储运工程学院](https://mp.weixin.qq.com/s/AQU5C6gizOjkCWxGqmHEjA)~~
+
+##  中国航空工业集团公司
+
+> [西安飞行自动控制研究所](https://mp.weixin.qq.com/s/fgszexKIliZSSVGMWN4gfA)
 
 ## 北京林业大学
 

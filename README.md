@@ -707,6 +707,8 @@
 
 > [深圳大学夏令营信息](https://yz.szu.edu.cn/info/1041/12917.htm)
 
+> [深圳大学预推免信息](https://yz.szu.edu.cn/info/1041/12989.htm)
+
 ~~【报名截止：7.1】 [材料学院](https://mp.weixin.qq.com/s/bM9a3PGlSKIQGSf6Wzz5Lg)~~
 
 ## 西南科技大学

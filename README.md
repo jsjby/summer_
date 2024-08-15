@@ -275,6 +275,8 @@
 
 【报名截止：8.30】[卓越工程师](http://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240807_323857.htm)
 
+【报名截止：8.18】[宣怀学院科创硕士项目](https://mp.weixin.qq.com/s/QpulB9uJsXiwX6Eig7DaSg)
+
 ~~【报名截止：6.27】 [环境科学与工程学院](https://tjusee.tju.edu.cn/info/1126/3185.htm)~~
 
 ~~【报名截止：6.26】 [中国五矿校企联合培养专项](https://tjusee.tju.edu.cn/info/1126/3192.htm)~~
@@ -382,6 +384,8 @@
 ## 中国科学院
 
 【报名截止：9.30】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202408/t20240814_7266181.html)
+
+【报名截止：9.30】[微小卫星创新研究院](https://microsate.cas.cn/yajsjy/sszsxx/202408/t20240815_7273355.html)
 
 【报名截止：9.24】[上海应用物理研究所](http://www.sinap.cas.cn/yjsjynew/zsjz/sszs_177904/202408/t20240814_7269865.html)
 

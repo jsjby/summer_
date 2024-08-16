@@ -5,6 +5,20 @@
 
 > [清华大学夏令营信息](https://yz.tsinghua.edu.cn/xlyxx.htm) | [清华大学深圳国际研究生院夏令营信息](https://mp.weixin.qq.com/s/PQEUQqdUTbIW7d6GtqwNbA)
 
+> [清华大学预推免信息](https://yz.tsinghua.edu.cn/info/1008/2796.htm) | > [清华大学博士各学院预推免信息](https://yz.tsinghua.edu.cn/info/1010/2808.htm)
+
+> 申请服务系统定于2024年8月23日12:00开放，2024年9月2日12:00关闭
+
+【报名截止：9.2】[深圳国际研究生院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599)
+
+【报名截止：9.2】[工业工程系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/72ef6b22-c7af-417d-803e-3c2e1b362ebe?yxsdm=016)
+
+【报名截止：9.2】[核能与新能源技术研究院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/24313d2b-8e47-44b9-b981-62e096a9947a?yxsdm=101)
+
+【报名截止：9.2】[机械工程系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/08de39b0-6599-44fa-a0fb-8b08d95f5038?yxsdm=012)
+
+【报名截止：9.2】[能源与动力工程系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/1a965c39-2919-4d90-86da-638342e81b08?yxsdm=014)
+
 ~~【报名截止：6.23】 [工程物理系、核能与新能源技术研究院、安全科学学院](https://www.ep.tsinghua.edu.cn/info/1004/3634.htm)~~
 
 ~~【报名截止：6.20】 [海洋工程研究院](https://www.sigs.tsinghua.edu.cn/2024/0520/c120a94498/page.htm)~~

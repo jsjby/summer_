@@ -193,7 +193,7 @@
 
 ## 同济大学
 
-【报名截止：8.16】 [国优计划](https://gs.tongji.edu.cn/info/1092/3678.htm)
+~~【报名截止：8.16】 [国优计划](https://gs.tongji.edu.cn/info/1092/3678.htm)~~
 
 ~~【报名截止：6.20】 [上海自主智能无人系统科学中心](https://srias.tongji.edu.cn/1e/2d/c17827a335405/page.htm)~~
 
@@ -289,7 +289,7 @@
 
 【报名截止：8.30】[卓越工程师](http://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240807_323857.htm)
 
-【报名截止：8.18】[宣怀学院科创硕士项目](https://mp.weixin.qq.com/s/QpulB9uJsXiwX6Eig7DaSg)
+~~【报名截止：8.18】[宣怀学院科创硕士项目](https://mp.weixin.qq.com/s/QpulB9uJsXiwX6Eig7DaSg)~~
 
 ~~【报名截止：6.27】 [环境科学与工程学院](https://tjusee.tju.edu.cn/info/1126/3185.htm)~~
 
@@ -340,6 +340,10 @@
 > [中国海洋大学夏令营信息](https://yz.ouc.edu.cn/2024/0611/c5926a474404/page.htm)
 
 ~~【报名截止：6.18】 [工程学院](http://coe.ouc.edu.cn/2024/0607/c8976a466689/page.htm)~~
+
+## 华南理工大学
+
+【报名截止：N/A】[工程硕博士培养改革专项](https://yz.scut.edu.cn/2024/0816/c30108a559743/page.htm)
 
 ## 重庆大学
 
@@ -566,6 +570,10 @@
 ##  中国航空工业集团公司
 
 > [西安飞行自动控制研究所](https://mp.weixin.qq.com/s/fgszexKIliZSSVGMWN4gfA)
+
+ ## 杭州师范大学
+
+> [杭州师范大学预推免信息](https://yjs.hznu.edu.cn/c/2024-08-19/2989525.shtml)
 
 ## 北京林业大学
 

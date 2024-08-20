@@ -97,6 +97,10 @@
 
 【报名截止：N/A】[（威海） 计算机科学与技术学院](https://cst.hitwh.edu.cn/2024/0808/c371a186070/page.htm)
 
+【报名截止：N/A】[（深圳）机电工程与自动化学院](http://smea.hitsz.edu.cn/info/1014/2531.htm)
+
+【报名截止：9.3】[（深圳）土木与环境工程学院](http://sce.hitsz.edu.cn/info/1009/5770.htm)
+
 ~~【报名截止：8.8】 [苏州研究院](https://mp.weixin.qq.com/s/KrlnlCTs1r6MiilSC-5sTA)~~
 
 ~~【报名截止：8.6】 [郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)~~
@@ -124,6 +128,8 @@
 【报名截止：9.10】[工程师学院](https://pi.zju.edu.cn/2024/0808/c67026a2952040/page.htm)
 
 【报名截止：9.10】[软件学院](http://www.cst.zju.edu.cn/2024/0811/c32178a2952716/page.htm)
+
+【报名截止：9.10】[机械工程学院](http://me.zju.edu.cn/mecn/2024/0819/c6202a2953703/page.htm)
 
 【报名截止：9.10】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2660)
 
@@ -343,6 +349,8 @@
 
 ## 华南理工大学
 
+> [华南理工大学2025年接收推免预报名公告](https://yz.scut.edu.cn/2024/0819/c30674a559796/page.htm)
+
 【报名截止：N/A】[工程硕博士培养改革专项](https://yz.scut.edu.cn/2024/0816/c30108a559743/page.htm)
 
 ## 重庆大学
@@ -380,6 +388,8 @@
 > [大连理工大学夏令营信息](https://gs.dlut.edu.cn/info/1173/14706.htm)
 
 > [大连理工大学预推免信息](https://gs.dlut.edu.cn/info/1173/14906.htm)
+
+报名截止：8.25】 [化工学院](https://mp.weixin.qq.com/s/sBhlUnND4J6kMB6EAKkntw)
 
 ~~【报名截止：7.9】 [化工海洋与生命学院](https://hyxy.dlut.edu.cn/info/1184/8897.htm)~~
 

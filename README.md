@@ -461,7 +461,11 @@
 
 【报名截止：8.31】[能源与环境工程学院](https://seee.ustb.edu.cn/tzgg/a5e8973058c64443a3ca171af3732fa6.htm)
 
+【报名截止：8.3】[国家材料服役安全科学中心](https://ncms.ustb.edu.cn/rcpy/tzgg/e479005126814dcb8ace6b822f592d79.htm)
+
 【报名截止：8.30】[智能科学与技术学院](https://ai.ustb.edu.cn/xwgg/tzgg/908112fddf1441dbb189557b9b768cfe.htm)
+
+【报名截止：8.28】[顺德创新学院](https://sd.ustb.edu.cn/tzgg/d86e101480c9471281da8ce5ba9aca29.htm)
 
 ~~【报名截止：7.10】 [中国有研科技集团](https://mp.weixin.qq.com/s/KYOSUTsxxS8pQc11C6kJng)~~
 
@@ -520,6 +524,10 @@
 > [江南大学夏令营信息](https://yz.jiangnan.edu.cn/info/1012/3460.htm)
 
 ~~【报名截止：6.23】 [机械工程学院](https://sme.jiangnan.edu.cn/info/1070/7218.htm)~~
+
+## 湘潭大学
+
+【报名截止：9.15】[湘潭大学](https://yjsc.xtu.edu.cn/info/1028/4325.htm)~~
 
 ## 暨南大学
 

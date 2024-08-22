@@ -11,6 +11,8 @@
 
 【报名截止：9.2】[深圳国际研究生院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599)
 
+【报名截止：9.2】[南方科技大学联合培养博士专项计划](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ed76b438-d3a6-4103-b387-4ac778c2c426?yxsdm=599)
+
 【报名截止：9.2】[工业工程系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/72ef6b22-c7af-417d-803e-3c2e1b362ebe?yxsdm=016)
 
 【报名截止：9.2】[核能与新能源技术研究院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/24313d2b-8e47-44b9-b981-62e096a9947a?yxsdm=101)
@@ -217,7 +219,7 @@
 
 > [北航夏令营信息](https://mp.weixin.qq.com/s/Xmpb74tyPoDMKTWwl7i2jQ)
 
-【报名截止：8.14】[无人系统研究院 ](https://wrj.buaa.edu.cn/info/1008/2226.htm)
+~~【报名截止：8.14】[无人系统研究院 ](https://wrj.buaa.edu.cn/info/1008/2226.htm)~~
 
 ~~【报名截止：6.30】 [大科学装置研究院](https://piqs.buaa.edu.cn/info/1038/2252.htm)~~
 
@@ -375,7 +377,9 @@
 
 ## 山东大学
  
- > [山东大学夏令营信息](https://yz.sdu.edu.cn/info/1009/5868.htm)
+> [山东大学夏令营信息](https://yz.sdu.edu.cn/info/1009/5868.htm)
+
+> [山东大学预推免信息](https://www.yz.sdu.edu.cn/info/1009/5910.htm)
 
 ~~【报名截止：6.30】 [能源与动力工程学院](https://www.epe.sdu.edu.cn/info/1040/10807.htm)~~
 
@@ -603,7 +607,7 @@
 
 > [北京工商大学](https://yjs.btbu.edu.cn/zsgz/sszs/616b717e406643429ea1cdf6b921828a.htm)
 
-【报名截止：8.16】[计算机与人工智能学院](https://mp.weixin.qq.com/s/dRpnxnVw_lUCZtybOavvYA)
+~~【报名截止：8.16】[计算机与人工智能学院](https://mp.weixin.qq.com/s/dRpnxnVw_lUCZtybOavvYA)~~
 
 ## 北京信息科技大学
 
@@ -642,6 +646,8 @@
 ## 西湖大学
 
 > [西湖大学夏令营信息](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240418_39507.shtml)
+
+> [西湖大学预推免信息](https://westlake.edu.cn/news_events/westlakenews/zsdt/202408/t20240822_42135.shtml)
 
 ~~【报名截止：6.10】 [工学院](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)~~
 
@@ -738,6 +744,8 @@
 ## 华东理工大学
 
 > [华东理工大学夏令营信息](https://gschool.ecust.edu.cn/2024/0524/c12754a167858/page.htm)
+
+> [华东理工大学预推免信息](https://gschool.ecust.edu.cn/2024/0821/c12708a170153/page.htm)
 
 ## 武汉科技大学
 

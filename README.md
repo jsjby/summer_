@@ -7,6 +7,8 @@
 
 > [清华大学预推免信息](https://yz.tsinghua.edu.cn/info/1008/2796.htm) | > [清华大学博士各学院预推免信息](https://yz.tsinghua.edu.cn/info/1010/2808.htm)
 
+[清华大学深圳国际研究生院招生专业目录](https://www.sigs.tsinghua.edu.cn/2024/0823/c118a95819/page.htm) 
+
 > 申请服务系统定于2024年8月23日12:00开放，2024年9月2日12:00关闭
 
 【报名截止：9.2】[深圳国际研究生院博士招生](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599)
@@ -16,6 +18,8 @@
 【报名截止：9.2】[南方科技大学联合培养博士专项计划](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ed76b438-d3a6-4103-b387-4ac778c2c426?yxsdm=599)
 
 【报名截止：9.2】[工业工程系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/72ef6b22-c7af-417d-803e-3c2e1b362ebe?yxsdm=016)
+
+【报名截止：9.2】[国家卓越工程师学院国重项目](https://mp.weixin.qq.com/s/stCPMyOkN7_AVrQDuetcfA)
 
 【报名截止：9.2】[核能与新能源技术研究院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/24313d2b-8e47-44b9-b981-62e096a9947a?yxsdm=101)
 
@@ -42,6 +46,8 @@
 ~~【报名截止：6.10】 [工学院](https://www.coe.pku.edu.cn/graduate/notice/12781.html)~~
 
 ## 上海交通大学
+
+~~【报名截止：8.25】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)~~
 
 ~~【报名截止：7月中旬】 [溥渊未来技术学院](https://mp.weixin.qq.com/s/8NyUWzqrmG6579I5QPTDng)~~
 

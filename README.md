@@ -609,6 +609,10 @@
 
 > [杭州师范大学预推免信息](https://yjs.hznu.edu.cn/c/2024-08-19/2989525.shtml)
 
+##  北京协和医学院
+
+【报名截止：9.5】[北京协和医学院](https://graduate.pumc.edu.cn/zsw/info/1005/2028.htm)
+
 ## 北京林业大学
 
 > [北京林业大学夏令营信息](https://yanzhao.bjut.edu.cn/info/1025/15888.htm)

@@ -97,6 +97,8 @@
 
 【报名截止：N/A】[机电工程学院](https://sme.hit.edu.cn/2024/0730/c17968a349567/page.htm)
 
+【报名截止：N/A】[（威海） 材料科学与工程学院](http://mse.hitwh.edu.cn/2024/0825/c5008a186477/page.htm)
+
 【报名截止：N/A】[材料科学与工程学院](https://mse.hit.edu.cn/2024/0809/c16847a350850/page.htm)
 
 【报名截止：N/A】[威海） 汽车工程学院](https://auto.hitwh.edu.cn/2024/0808/c189a186089/page.htm)
@@ -353,6 +355,10 @@
 
 ## 中国海洋大学
 
+> [中国海洋大学预推免信息](https://yz.ouc.edu.cn/2024/0827/c5926a482049/page.htm)
+
+【报名截止：9.19】[创新人才培养专项计划](https://yz.ouc.edu.cn/2024/0827/c5926a482047/page.htm)
+
 > [中国海洋大学夏令营信息](https://yz.ouc.edu.cn/2024/0611/c5926a474404/page.htm)
 
 ~~【报名截止：6.18】 [工程学院](http://coe.ouc.edu.cn/2024/0607/c8976a466689/page.htm)~~
@@ -403,7 +409,7 @@
 
 【报名截止：9.15】[电气工程学院](https://ee.dlut.edu.cn/info/1203/8773.htm)
 
-【报名截止：8.25】 [化工学院](https://mp.weixin.qq.com/s/sBhlUnND4J6kMB6EAKkntw)
+~~【报名截止：8.25】 [化工学院](https://mp.weixin.qq.com/s/sBhlUnND4J6kMB6EAKkntw)~~
 
 ~~【报名截止：7.9】 [化工海洋与生命学院](https://hyxy.dlut.edu.cn/info/1184/8897.htm)~~
 

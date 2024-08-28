@@ -111,6 +111,8 @@
 
 【报名截止：N/A】[（深圳）机电工程与自动化学院](http://smea.hitsz.edu.cn/info/1014/2531.htm)
 
+【报名截止：9.6】[国优计划](https://yzb.hit.edu.cn/2024/0828/c8822a351712/page.htm)
+
 【报名截止：9.3】[（深圳）土木与环境工程学院](http://sce.hitsz.edu.cn/info/1009/5770.htm)
 
 ~~【报名截止：8.8】 [苏州研究院](https://mp.weixin.qq.com/s/KrlnlCTs1r6MiilSC-5sTA)~~
@@ -279,6 +281,8 @@
 
 >  [东南大学夏令营](https://yzb.seu.edu.cn/2024/0613/c6676a493845/page.htm)
 
+【报名截止：9.15】[国优计划](https://xxgk.seu.edu.cn/2024/0827/c10807a501080/page.htm)
+
 ~~【报名截止：8.1】 [自动化学院](https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm)~~
 
 ~~【报名截止：7.31】 [机械工程学院](https://me.seu.edu.cn/2024/0625/c1549a495253/pagem.htm)~~
@@ -381,7 +385,9 @@
 
 ## 湖南大学
 
-> [湖南大学2024年各学院优秀大学生暑期夏令营信息汇总](https://gra.hnu.edu.cn/info/1075/9607.htm)
+> [湖南大学夏令营信息汇总](https://gra.hnu.edu.cn/info/1075/9607.htm)
+
+> [湖南大学预推免信息](http://gra.hnu.edu.cn/info/1075/9695.htm)
 
 ~~【报名截止：6.14】 [物理与微电子科学学院](http://spe.hnu.edu.cn/info/1083/8776.htm)~~
 
@@ -479,6 +485,8 @@
 
 > [北京科技大预推免信息](https://yzxc.ustb.edu.cn/xlytm/hdap/0b8e3ab055724b2eb002f7105c7e722f.htm)
 
+【报名截止：9.1】[校企联合培养工程硕博士](https://yzxc.ustb.edu.cn/xlytm/hdap/9c535140e0474e8abfa82b77a77d2f92.htm)
+
 【报名截止：8.31】[能源与环境工程学院](https://seee.ustb.edu.cn/tzgg/a5e8973058c64443a3ca171af3732fa6.htm)
 
 【报名截止：8.31】[国家材料服役安全科学中心](https://ncms.ustb.edu.cn/rcpy/tzgg/e479005126814dcb8ace6b822f592d79.htm)
@@ -487,7 +495,7 @@
 
 【报名截止：8.30】[前沿交叉科学技术研究院 ](https://qy.ustb.edu.cn/tzgg/cdf07f88e1864b6d95aab2babb19d573.htm)
 
-【报名截止：8.28】[顺德创新学院](https://sd.ustb.edu.cn/tzgg/d86e101480c9471281da8ce5ba9aca29.htm)
+~~【报名截止：8.28】[顺德创新学院](https://sd.ustb.edu.cn/tzgg/d86e101480c9471281da8ce5ba9aca29.htm)~~
 
 ~~【报名截止：7.10】 [中国有研科技集团](https://mp.weixin.qq.com/s/KYOSUTsxxS8pQc11C6kJng)~~
 
@@ -523,7 +531,7 @@
 
 ## 中国人民解放军空军工程大学
 
-【报名截止：8.8】 [空军工程大学](https://www.afeu.cn:1001/notice-announcement/462/)
+~~【报名截止：8.8】 [空军工程大学](https://www.afeu.cn:1001/notice-announcement/462/)~~
 
 ##  中国人民解放军海军工程大学
 

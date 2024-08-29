@@ -111,6 +111,14 @@
 
 【报名截止：N/A】[（深圳）机电工程与自动化学院](http://smea.hitsz.edu.cn/info/1014/2531.htm)
 
+【报名截止：N/A】[航天学院（材料科学与工程）](https://sa.hit.edu.cn/2024/0829/c6582a351793/page.htm)
+
+【报名截止：9.20】[航天学院-控制科学与工程学科](https://sa.hit.edu.cn/2024/0829/c6582a351793/page.htm)
+
+【报名截止：9.18】[航天学院航空宇航科学与技术学科](https://sa.hit.edu.cn/2024/0829/c6582a351793/page.htm)
+
+【报名截止：9.13】[航天学院集成电路科学与工程、电子科学与技术及光学工程学科](https://sa.hit.edu.cn/2024/0829/c6582a351793/page.htm)
+
 【报名截止：9.6】[国优计划](https://yzb.hit.edu.cn/2024/0828/c8822a351712/page.htm)
 
 【报名截止：9.3】[（深圳）土木与环境工程学院](http://sce.hitsz.edu.cn/info/1009/5770.htm)
@@ -443,6 +451,8 @@
 
 【报名截止：9.24】[上海应用物理研究所](http://www.sinap.cas.cn/yjsjynew/zsjz/sszs_177904/202408/t20240814_7269865.html)
 
+【报名截止：9.16】[深圳先进技术研究院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202408/t20240829_7327021.html)
+
 ~~【报名截止：7.15】 [空天院](https://mp.weixin.qq.com/s/BvGBijMhubCOETXM2fZuJA)~~
 
 ~~【报名截止：7.3】 [北京纳米能源与系统研究所](http://www.binn.cas.cn/tzgg/tzgg/202405/t20240515_6967349.html)~~
@@ -486,6 +496,8 @@
 > [北京科技大预推免信息](https://yzxc.ustb.edu.cn/xlytm/hdap/0b8e3ab055724b2eb002f7105c7e722f.htm)
 
 【报名截止：9.1】[校企联合培养工程硕博士](https://yzxc.ustb.edu.cn/xlytm/hdap/9c535140e0474e8abfa82b77a77d2f92.htm)
+
+【报名截止：9.1】[国家卓越工程师学院](https://mp.weixin.qq.com/s/vQKDNL_T-Lk1G1iXDUjqsQ)
 
 【报名截止：8.31】[能源与环境工程学院](https://seee.ustb.edu.cn/tzgg/a5e8973058c64443a3ca171af3732fa6.htm)
 

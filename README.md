@@ -47,6 +47,8 @@
 
 ## 上海交通大学
 
+【报名截止：9.16】[上海交通大学与宁波东方理工大学](https://yzb.sjtu.edu.cn/info/1008/4725.htm)
+
 ~~【报名截止：8.25】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)~~
 
 ~~【报名截止：7月中旬】 [溥渊未来技术学院](https://mp.weixin.qq.com/s/8NyUWzqrmG6579I5QPTDng)~~
@@ -291,6 +293,8 @@
 
 【报名截止：9.15】[国优计划](https://xxgk.seu.edu.cn/2024/0827/c10807a501080/page.htm)
 
+【报名截止：9.9】[土木工程学院](https://civil.seu.edu.cn/2024/0830/c20024a501395/page.htm)
+
 ~~【报名截止：8.1】 [自动化学院](https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm)~~
 
 ~~【报名截止：7.31】 [机械工程学院](https://me.seu.edu.cn/2024/0625/c1549a495253/pagem.htm)~~
@@ -317,7 +321,7 @@
 
 【报名截止：9.5】[国优计划](https://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240731_323856.htm)
 
-【报名截止：8.30】[卓越工程师](http://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240807_323857.htm)
+~~【报名截止：8.30】[卓越工程师](http://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240807_323857.htm)~~
 
 ~~【报名截止：8.18】[宣怀学院科创硕士项目](https://mp.weixin.qq.com/s/QpulB9uJsXiwX6Eig7DaSg)~~
 
@@ -396,6 +400,8 @@
 > [湖南大学夏令营信息汇总](https://gra.hnu.edu.cn/info/1075/9607.htm)
 
 > [湖南大学预推免信息](http://gra.hnu.edu.cn/info/1075/9695.htm)
+
+【报名截止：9.20】 [生物学院](http://bio.hnu.edu.cn/info/1285/7778.htm)
 
 ~~【报名截止：6.14】 [物理与微电子科学学院](http://spe.hnu.edu.cn/info/1083/8776.htm)~~
 
@@ -503,15 +509,15 @@
 
 【报名截止：8.31】[国家材料服役安全科学中心](https://ncms.ustb.edu.cn/rcpy/tzgg/e479005126814dcb8ace6b822f592d79.htm)
 
-【报名截止：8.30】[智能科学与技术学院](https://ai.ustb.edu.cn/xwgg/tzgg/908112fddf1441dbb189557b9b768cfe.htm)
+~~【报名截止：8.30】[智能科学与技术学院](https://ai.ustb.edu.cn/xwgg/tzgg/908112fddf1441dbb189557b9b768cfe.htm)~~
 
-【报名截止：8.30】[前沿交叉科学技术研究院 ](https://qy.ustb.edu.cn/tzgg/cdf07f88e1864b6d95aab2babb19d573.htm)
+~~【报名截止：8.30】[前沿交叉科学技术研究院 ](https://qy.ustb.edu.cn/tzgg/cdf07f88e1864b6d95aab2babb19d573.htm)~~
 
 ~~【报名截止：8.28】[顺德创新学院](https://sd.ustb.edu.cn/tzgg/d86e101480c9471281da8ce5ba9aca29.htm)~~
 
 ~~【报名截止：7.10】 [中国有研科技集团](https://mp.weixin.qq.com/s/KYOSUTsxxS8pQc11C6kJng)~~
 
-【报名截止：8.21】 [机械工程学院](https://me.ustb.edu.cn/tongzhigonggao/2024-07-19/2454.html)
+~~【报名截止：8.21】 [机械工程学院](https://me.ustb.edu.cn/tongzhigonggao/2024-07-19/2454.html)~~
 
 ## 北京交通大学
 

@@ -83,6 +83,8 @@
 
 > [中国科学技术大学夏令营信息](https://m.xly.ustc.edu.cn/news.php?newsid=981)
 
+【报名截止：9.16】[中国科学技术大学与宁波东方理工大学](https://www.eitech.edu.cn/?admission=%e4%b8%ad%e5%9b%bd%e7%a7%91%e5%ad%a6%e6%8a%80%e6%9c%af%e5%a4%a7%e5%ad%a6%e4%b8%8e%e5%ae%81%e6%b3%a2%e4%b8%9c%e6%96%b9%e7%90%86%e5%b7%a5%e5%a4%a7%e5%ad%a6%ef%bc%88%e6%9a%82%e5%90%8d%ef%bc%892025-2)
+
 ~~【报名截止：6.30】 [国家示范性微电子学院](https://sme.ustc.edu.cn/2024/0603/c31027a642813/page.htm)~~
 
 ~~【报名截止：6.30】 [火灾科学国家重点实验室](https://xly.ustc.edu.cn/news.php?newsid=1010)~~
@@ -403,6 +405,8 @@
 
 【报名截止：9.20】 [生物学院](http://bio.hnu.edu.cn/info/1285/7778.htm)
 
+【报名截止：9.19】[卓越工程师学院](http://gra.hnu.edu.cn/info/1075/9699.htm)
+
 ~~【报名截止：6.14】 [物理与微电子科学学院](http://spe.hnu.edu.cn/info/1083/8776.htm)~~
 
 ~~【报名截止：6.14】 [机器人学院](http://robotics.hnu.edu.cn/info/1074/2648.htm)~~
@@ -414,6 +418,12 @@
 > [山东大学夏令营信息](https://yz.sdu.edu.cn/info/1009/5868.htm)
 
 > [山东大学预推免信息](https://www.yz.sdu.edu.cn/info/1009/5910.htm)
+
+【报名截止：N/A [空间科学与物理学院](https://apd.wh.sdu.edu.cn/info/1049/16750.htm)
+
+【报名截止：9.15 [高等技术研究院/热科学与工程研究中心](http://sts.sdu.edu.cn/info/1031/2475.htm)
+
+【报名截止：9.4 [国优计划](https://www.cie.sdu.edu.cn/info/1033/4876.htm)
 
 ~~【报名截止：6.30】 [能源与动力工程学院](https://www.epe.sdu.edu.cn/info/1040/10807.htm)~~
 
@@ -501,13 +511,13 @@
 
 > [北京科技大预推免信息](https://yzxc.ustb.edu.cn/xlytm/hdap/0b8e3ab055724b2eb002f7105c7e722f.htm)
 
-【报名截止：9.1】[校企联合培养工程硕博士](https://yzxc.ustb.edu.cn/xlytm/hdap/9c535140e0474e8abfa82b77a77d2f92.htm)
+~~【报名截止：9.1】[校企联合培养工程硕博士](https://yzxc.ustb.edu.cn/xlytm/hdap/9c535140e0474e8abfa82b77a77d2f92.htm)~~
 
-【报名截止：9.1】[国家卓越工程师学院](https://mp.weixin.qq.com/s/vQKDNL_T-Lk1G1iXDUjqsQ)
+~~【报名截止：9.1】[国家卓越工程师学院](https://mp.weixin.qq.com/s/vQKDNL_T-Lk1G1iXDUjqsQ)~~
 
-【报名截止：8.31】[能源与环境工程学院](https://seee.ustb.edu.cn/tzgg/a5e8973058c64443a3ca171af3732fa6.htm)
+~~【报名截止：8.31】[能源与环境工程学院](https://seee.ustb.edu.cn/tzgg/a5e8973058c64443a3ca171af3732fa6.htm)~~
 
-【报名截止：8.31】[国家材料服役安全科学中心](https://ncms.ustb.edu.cn/rcpy/tzgg/e479005126814dcb8ace6b822f592d79.htm)
+~~【报名截止：8.31】[国家材料服役安全科学中心](https://ncms.ustb.edu.cn/rcpy/tzgg/e479005126814dcb8ace6b822f592d79.htm)~~
 
 ~~【报名截止：8.30】[智能科学与技术学院](https://ai.ustb.edu.cn/xwgg/tzgg/908112fddf1441dbb189557b9b768cfe.htm)~~
 
@@ -760,6 +770,10 @@
 ~~【报名截止：6.26】 [材料与化学学院](http://chxy.usst.edu.cn/2024/0606/c3679a321913/page.htm)~~
 
 ~~【报名截止：6.25】 [能源与动力工程学院](http://ndxy.usst.edu.cn/2024/0530/c14344a321453/page.htm)~~
+
+## 长沙理工大学
+
+> [长沙理工大学预推免](https://www.csust.edu.cn/yjsy/info/1121/11008.htm)
 
 ## 湘潭大学
 

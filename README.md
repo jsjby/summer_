@@ -11,21 +11,21 @@
 
 > 申请服务系统定于2024年8月23日12:00开放，2024年9月2日12:00关闭
 
-【报名截止：9.2】[深圳国际研究生院博士招生](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599)
+~~【报名截止：9.2】[深圳国际研究生院博士招生](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599)~~
 
-【报名截止：9.2】[深圳国际研究生院](https://www.sigs.tsinghua.edu.cn/2024/0823/c118a95817/page.htm)
+~~【报名截止：9.2】[深圳国际研究生院](https://www.sigs.tsinghua.edu.cn/2024/0823/c118a95817/page.htm)~~
 
-【报名截止：9.2】[南方科技大学联合培养博士专项计划](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ed76b438-d3a6-4103-b387-4ac778c2c426?yxsdm=599)
+~~【报名截止：9.2】[南方科技大学联合培养博士专项计划](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ed76b438-d3a6-4103-b387-4ac778c2c426?yxsdm=599)~~
 
-【报名截止：9.2】[工业工程系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/72ef6b22-c7af-417d-803e-3c2e1b362ebe?yxsdm=016)
+~~【报名截止：9.2】[工业工程系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/72ef6b22-c7af-417d-803e-3c2e1b362ebe?yxsdm=016)~~
 
-【报名截止：9.2】[国家卓越工程师学院国重项目](https://mp.weixin.qq.com/s/stCPMyOkN7_AVrQDuetcfA)
+~~【报名截止：9.2】[国家卓越工程师学院国重项目](https://mp.weixin.qq.com/s/stCPMyOkN7_AVrQDuetcfA)~~
 
-【报名截止：9.2】[核能与新能源技术研究院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/24313d2b-8e47-44b9-b981-62e096a9947a?yxsdm=101)
+~~【报名截止：9.2】[核能与新能源技术研究院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/24313d2b-8e47-44b9-b981-62e096a9947a?yxsdm=101)~~
 
-【报名截止：9.2】[机械工程系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/08de39b0-6599-44fa-a0fb-8b08d95f5038?yxsdm=012)
+~~【报名截止：9.2】[机械工程系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/08de39b0-6599-44fa-a0fb-8b08d95f5038?yxsdm=012)~~
 
-【报名截止：9.2】[能源与动力工程系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/1a965c39-2919-4d90-86da-638342e81b08?yxsdm=014)
+~~【报名截止：9.2】[能源与动力工程系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/1a965c39-2919-4d90-86da-638342e81b08?yxsdm=014)~~
 
 ~~【报名截止：6.23】 [工程物理系、核能与新能源技术研究院、安全科学学院](https://www.ep.tsinghua.edu.cn/info/1004/3634.htm)~~
 
@@ -84,6 +84,8 @@
 > [中国科学技术大学夏令营信息](https://m.xly.ustc.edu.cn/news.php?newsid=981)
 
 【报名截止：9.16】[中国科学技术大学与宁波东方理工大学](https://www.eitech.edu.cn/?admission=%e4%b8%ad%e5%9b%bd%e7%a7%91%e5%ad%a6%e6%8a%80%e6%9c%af%e5%a4%a7%e5%ad%a6%e4%b8%8e%e5%ae%81%e6%b3%a2%e4%b8%9c%e6%96%b9%e7%90%86%e5%b7%a5%e5%a4%a7%e5%ad%a6%ef%bc%88%e6%9a%82%e5%90%8d%ef%bc%892025-2)
+
+【报名截止：9.12】[工程硕博士培养](https://yz.ustc.edu.cn/article/2734/182?num=-1)
 
 ~~【报名截止：6.30】 [国家示范性微电子学院](https://sme.ustc.edu.cn/2024/0603/c31027a642813/page.htm)~~
 
@@ -225,6 +227,8 @@
 
 ## 同济大学
 
+【报名截止：9.26】 [同济大学2025年接收推免预报名公告](https://yz.tongji.edu.cn/info/1010/3638.htm)
+
 ~~【报名截止：8.16】 [国优计划](https://gs.tongji.edu.cn/info/1092/3678.htm)~~
 
 ~~【报名截止：6.20】 [上海自主智能无人系统科学中心](https://srias.tongji.edu.cn/1e/2d/c17827a335405/page.htm)~~
@@ -242,6 +246,8 @@
 ## 北京航空航天大学
 
 > [北航夏令营信息](https://mp.weixin.qq.com/s/Xmpb74tyPoDMKTWwl7i2jQ)
+
+【报名截止：9.5】[国家卓越工程师学院](https://hc.buaa.edu.cn/info/1188/3834.htm)
 
 ~~【报名截止：8.14】[无人系统研究院 ](https://wrj.buaa.edu.cn/info/1008/2226.htm)~~
 
@@ -591,6 +597,12 @@
 
 > [暨南大学预推免信息](https://yz.jnu.edu.cn/2024/0810/c33059a819263/page.htm)
 
+> [暨南大学预推免信息深圳校区](https://sz.jnu.edu.cn/2024/0828/c10943a819711/page.htm)
+
+## 南昌大学
+
+【报名截止：9.17】[南昌大学](http://yjsy.ncu.edu.cn/tzgg/8ac9367f17b74f429a74744e66d62534.htm)
+
 ## 西南交通大学
 
 ~~【报名截止：7.2】 [机械工程学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=8B2A674BD1718039)~~
@@ -850,6 +862,12 @@
 ## 新疆大学
 
 ~~【报名截止：6.24】 [智能制造现代产业学院（机械工程学院）](https://jxxy.xju.edu.cn/nry.jsp?urltype=news.NewsContentUrl&wbtreeid=2082&wbnewsid=5024)~~
+
+## 曲阜师范大学
+
+> [曲阜师范大学预推免](https://yjs.qfnu.edu.cn/info/1063/8254.htm)
+
+> [曲阜师范大学预推免-直博生](https://yjs.qfnu.edu.cn/info/1063/8255.htm)
 
 
 

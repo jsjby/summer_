@@ -83,6 +83,8 @@
 
 > [中国科学技术大学夏令营信息](https://m.xly.ustc.edu.cn/news.php?newsid=981)
 
+【报名截止：9.17】[国家同步辐射实验室](https://www.nsrl.ustc.edu.cn/2024/0903/c10985a652372/page.htm)
+
 【报名截止：9.16】[中国科学技术大学与宁波东方理工大学](https://www.eitech.edu.cn/?admission=%e4%b8%ad%e5%9b%bd%e7%a7%91%e5%ad%a6%e6%8a%80%e6%9c%af%e5%a4%a7%e5%ad%a6%e4%b8%8e%e5%ae%81%e6%b3%a2%e4%b8%9c%e6%96%b9%e7%90%86%e5%b7%a5%e5%a4%a7%e5%ad%a6%ef%bc%88%e6%9a%82%e5%90%8d%ef%bc%892025-2)
 
 【报名截止：9.12】[工程硕博士培养](https://yz.ustc.edu.cn/article/2734/182?num=-1)
@@ -142,6 +144,8 @@
 ~~【报名截止：6.7】 [能源科学与工程学院](https://power.hit.edu.cn/2024/0509/c5714a344266/pagem.htm)~~
 
 ## 复旦大学
+
+> [复旦大学预推免消息](https://gsao.fudan.edu.cn/8a/a3/c15157a690851/page.htm)
 
 > ~~[复旦大学夏令营信息](https://gsao.fudan.edu.cn/3f/02/c15014a671490/page.htm)~~
 
@@ -553,6 +557,8 @@
 
 ## 南京师范大学
 
+> [南京师范大学预推免](https://yz.njnu.edu.cn/homepage_display.jsp?wid=AC3D9226AD9F3C16E04077CAA468131D&wid2=210C30F638E99776E06002DF3E091ADA)
+
 ~~【报名截止：6.15】 [能源与机械工程学院](http://energy.njnu.edu.cn/info/1057/29981.htm)~~
 
 ## 华北电力大学
@@ -591,7 +597,9 @@
 
 ## 湘潭大学
 
-【报名截止：9.15】[湘潭大学](https://yjsc.xtu.edu.cn/info/1028/4325.htm)~~
+【报名截止：9.15】[湘潭大学](https://yjsc.xtu.edu.cn/info/1028/4325.htm)
+
+【报名截止：9.15】[机械工程与力学学院](https://jxgc.xtu.edu.cn/info/1021/5618.htm)
 
 ## 暨南大学
 
@@ -713,6 +721,10 @@
 
 > [西北大学预推免信息](https://yjs.nwu.edu.cn/info/1013/4693.htm)
 
+## 西北政法大学
+
+> [西北政法大学预推免信息](https://mp.weixin.qq.com/s/emMysciBii8ouW7Vvs-HfA)
+
 ## 西湖大学
 
 > [西湖大学夏令营信息](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240418_39507.shtml)
@@ -746,6 +758,8 @@
 ## 南方科技大学
 
 > [南方科技大学夏令营信息](https://gs.sustech.edu.cn/#/admission/detail?current_child_id=142&id=148&article_id=3220)
+
+【报名截止：9.24】 [力学与航空航天工程系](https://mp.weixin.qq.com/s/TltgYfqcTcCbxmA6UqWQrw)
 
 ~~【报名截止：6.20】 [力学与航空航天工程系](https://mp.weixin.qq.com/s/oSnhH98H1OmcNGR8Q4HH1g)~~
 

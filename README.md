@@ -73,7 +73,7 @@
 
 > [南京大学夏令营信息](https://grawww.nju.edu.cn/64/88/c905a681096/page.htm)
 
-> [南京大学预推免消息](https://yzb.nju.edu.cn/yw/ca/fd/c48430a707325/page.htm)
+> [南京大学预推免消息](https://yzb.nju.edu.cn/yw/ca/fd/c48430a707325/page.htm)  | > [南京大学预推免直博生信息](https://yzb.nju.edu.cn/e4/ab/c47865a713899/page.htm)
 
 ~~【报名截止：6.20】 [能源与资源学院](https://sser.nju.edu.cn/info/1012/1841.htm)~~
 
@@ -121,6 +121,8 @@
 
 【报名截止：N/A】[航天学院（材料科学与工程）](https://sa.hit.edu.cn/2024/0829/c6582a351793/page.htm)
 
+【报名截止：N/A】[能源科学与工程学院](https://power.hit.edu.cn/2024/0904/c5714a352088/pagem.htm)
+
 【报名截止：9.20】[航天学院-控制科学与工程学科](https://sa.hit.edu.cn/2024/0829/c6582a351793/page.htm)
 
 【报名截止：9.18】[航天学院航空宇航科学与技术学科](https://sa.hit.edu.cn/2024/0829/c6582a351793/page.htm)
@@ -129,7 +131,7 @@
 
 【报名截止：9.6】[国优计划](https://yzb.hit.edu.cn/2024/0828/c8822a351712/page.htm)
 
-【报名截止：9.3】[（深圳）土木与环境工程学院](http://sce.hitsz.edu.cn/info/1009/5770.htm)
+~~【报名截止：9.3】[（深圳）土木与环境工程学院](http://sce.hitsz.edu.cn/info/1009/5770.htm)~~
 
 ~~【报名截止：8.8】 [苏州研究院](https://mp.weixin.qq.com/s/KrlnlCTs1r6MiilSC-5sTA)~~
 
@@ -148,6 +150,8 @@
 > [复旦大学预推免消息](https://gsao.fudan.edu.cn/8a/a3/c15157a690851/page.htm)
 
 > ~~[复旦大学夏令营信息](https://gsao.fudan.edu.cn/3f/02/c15014a671490/page.htm)~~
+
+【报名截止：9.15】[工程与应用技术研究院](https://faet.fudan.edu.cn/8b/9b/c23815a691099/page.htm)
 
 ~~【报名截止：5.31】 [信息科学与工程学院光源与照明工程系](https://mp.weixin.qq.com/s/NugxcZkixD11vt7suYGzZQ)~~
 
@@ -205,7 +209,11 @@
 
 ## 厦门大学
 
-~~> [厦门大学夏令营信息](https://zs.xmu.edu.cn/info/1055/28951.htm)~~
+> [厦门大学夏令营信息](https://zs.xmu.edu.cn/info/1055/28951.htm)
+
+> [厦门大学预推免招生信息](https://zs.xmu.edu.cn/info/1055/30871.htm)
+
+【报名截止：9.12】 [萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/9799.htm)
 
 ~~【报名截止：6.15】 [萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/9249.htm)~~
 
@@ -230,6 +238,10 @@
 ~~【报名截止：6.29】 [空天科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13794)~~
 
 ## 同济大学
+
+> [同济大学预推免招生信息](https://yz.tongji.edu.cn/info/1010/3650.htm)
+
+【报名截止：10.7】 [国优计划](https://yz.tongji.edu.cn/info/1010/3640.htm)
 
 【报名截止：9.26】 [同济大学2025年接收推免预报名公告](https://yz.tongji.edu.cn/info/1010/3638.htm)
 
@@ -331,6 +343,8 @@
 
 > [天津大学预推免信息](http://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240706_323840.htm)
 
+【报名截止：9.9 9.16】[分子＋研究院](http://molecularplus.tju.edu.cn/IndustryNews/1404.html)
+
 【报名截止：9.5】[国优计划](https://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240731_323856.htm)
 
 ~~【报名截止：8.30】[卓越工程师](http://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240807_323857.htm)~~
@@ -376,6 +390,8 @@
 > [东北大学夏令营信息](http://yz.neu.edu.cn/2024/0606/c5932a256581/pagem.htm)
 
 > [东北大学预推免信息](http://yz.neu.edu.cn/2024/0729/c5932a266900/page.htm)
+
+~~【报名截止：9.4 [工程硕博士培养](http://yz.neu.edu.cn/2024/0902/c5932a267593/page.htm)~~
 
 ~~【报名截止：6.26】 [机械工程与自动化学院](http://www.me.neu.edu.cn/2024/0612/c3402a256877/pagem.htm)~~
 
@@ -643,6 +659,8 @@
 
 > [中国矿业大学夏令营信息](https://yz.cumt.edu.cn/info/1004/2106.htm)
 
+> [中国矿业大学（北京）预推免信息](https://yjs.cumtb.edu.cn/info/1021/4281.htm)
+
 ~~【报名截止：7.18】 [矿物加工工程系（北京）](https://scee.cumtb.edu.cn/info/1083/3581.htm)~~
 
 ~~【报名截止：7.1】 [能源与矿业学院（北京）](https://nyxy.cumtb.edu.cn/info/1103/8011.htm)~~
@@ -650,6 +668,10 @@
 ~~【报名截止：6.30】 [化工学院](https://scet.cumt.edu.cn/2f/6e/c6509a667502/page.htm)~~
 
 ~~【报名截止：6.28】 [材料与物理学院](https://smsp.cumt.edu.cn/2e/7e/c18894a667262/page.htm)~~
+
+## 中国地质大学(武汉)
+
+> [中国地质大学(武汉)预推免信息](http://yz.cug.edu.cn/page/detail/PVKZRL/697/61815)
 
 ## 中国石油大学
 

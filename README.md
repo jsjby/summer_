@@ -109,6 +109,8 @@
 
 【报名截止：N/A】[（威海） 材料科学与工程学院](http://mse.hitwh.edu.cn/2024/0825/c5008a186477/page.htm)
 
+【报名截止：N/A】[（威海）海洋工程学院](https://snaoe.hitwh.edu.cn/2024/0906/c86a187106/page.htm)
+
 【报名截止：N/A】[材料科学与工程学院](https://mse.hit.edu.cn/2024/0809/c16847a350850/page.htm)
 
 【报名截止：N/A】[威海） 汽车工程学院](https://auto.hitwh.edu.cn/2024/0808/c189a186089/page.htm)

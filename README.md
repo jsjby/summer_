@@ -39,6 +39,10 @@
 
 ## 北京大学
 
+【报名截止：9.14】 [工学院](https://www.coe.pku.edu.cn/announcements/college/12997.html)
+
+【报名截止：9.14】 [环境与能源学院](https://see.pkusz.edu.cn/info/1009/1636.htm)
+
 ~~【报名截止：6.25】 [新材料学院](https://mp.weixin.qq.com/s/hEXEnCF3WRU-VrHEug1OQg)~~
 
 ~~【报名截止：6.15】 [环境与能源学院](https://see.pkusz.edu.cn/info/1009/1565.htm)~~
@@ -86,6 +90,8 @@
 ## 中国科学技术大学
 
 > [中国科学技术大学夏令营信息](https://m.xly.ustc.edu.cn/news.php?newsid=981)
+
+【报名截止：9.25】[科学岛分院](https://www.hf.cas.cn/sbpy/yjsc/zs/sszs/202409/t20240910_7342840.html)
 
 【报名截止：9.17】[国家同步辐射实验室](https://www.nsrl.ustc.edu.cn/2024/0903/c10985a652372/page.htm)
 
@@ -197,7 +203,7 @@
 
 ## 西安交通大学
 
-> [西安交通大学预推免信息](https://mp.weixin.qq.com/s/6PLlHUP9hNiRV8RRrni8sw)
+> [西安交通大学预推免信息](https://mp.weixin.qq.com/s/6PLlHUP9hNiRV8RRrni8sw) | > [西安交通大学各学院（部、中心）报名通知](https://yz.xjtu.edu.cn/info/1086/4064.htm)
 
 ~~【报名截止：7.10】 [未来技术学院](https://wljsxy.xjtu.edu.cn/info/1013/2414.htm)~~
 
@@ -491,6 +497,8 @@
 
 【报名截止：N/A [空间科学与物理学院](https://apd.wh.sdu.edu.cn/info/1049/16750.htm)
 
+【报名截止：9.18】[控制科学与工程学院](http://control.sdu.edu.cn/info/1018/7111.htm)
+
 【报名截止：9.15 [高等技术研究院/热科学与工程研究中心](http://sts.sdu.edu.cn/info/1031/2475.htm)
 
 ~~【报名截止：9.4 [国优计划](https://www.cie.sdu.edu.cn/info/1033/4876.htm)~~
@@ -526,6 +534,10 @@
 【报名截止：9.26】[国优计划](https://yz.lzu.edu.cn/shuoshishengzhaosheng/tuijianmianshi/2024/0907/274604.html)
 
 ~~【报名截止：6.25】 [材料与能源学院](https://mat.lzu.edu.cn/tongzhigonggao/2024/0603/270590.html)~~
+
+## 中国农业大学
+
+【报名截止：9.13】[工学院](http://coe.cau.edu.cn/art/2024/9/10/art_39155_1036636.html)
 
 ## 中国科学院大学
 
@@ -719,6 +731,8 @@
 
 > [中国矿业大学（北京）预推免信息](https://yjs.cumtb.edu.cn/info/1021/4281.htm)
 
+【报名截止：9.18】[中国矿业大学招生信息](https://yz.cumt.edu.cn/info/1003/2174.htm)
+
 ~~【报名截止：7.18】 [矿物加工工程系（北京）](https://scee.cumtb.edu.cn/info/1083/3581.htm)~~
 
 ~~【报名截止：7.1】 [能源与矿业学院（北京）](https://nyxy.cumtb.edu.cn/info/1103/8011.htm)~~
@@ -865,6 +879,8 @@
 
 【报名截止：9.24】 [力学与航空航天工程系](https://mp.weixin.qq.com/s/TltgYfqcTcCbxmA6UqWQrw)
 
+【报名截止：9.22】 [机械与能源工程系](https://mp.weixin.qq.com/s/-Xo4_jSE3XMbWRqCFX0AzA)
+
 ~~【报名截止：6.20】 [力学与航空航天工程系](https://mp.weixin.qq.com/s/oSnhH98H1OmcNGR8Q4HH1g)~~
 
 ~~【报名截止：6.16】 [机械与能源工程系](https://mp.weixin.qq.com/s/-cskcfJ608o7RnGGA-vezA)~~
@@ -886,6 +902,10 @@
 > [广东工业大学预推免信息](https://yzw.gdut.edu.cn/info/1135/7656.htm)
 
 ~~【报名截止：6.28】 [材料与能源学院](https://mp.weixin.qq.com/s/bwCo5N2KKsfdxS37mtwKNw)~~
+
+## 广州大学
+
+> [广州大学预推免信息](http://yjsy.gzhu.edu.cn/info/1084/4874.htm)
 
 ## 南京邮电大学
 
@@ -935,6 +955,10 @@
 
 > [重庆交通大学夏令营信息](https://yjszs.cqjtu.edu.cn/info/1050/2211.htm)
 
+## 江苏大学
+
+> [江苏大学预推免信息](https://yz.ujs.edu.cn/info/1010/6367.htm)
+
 ## 河南大学
 
 >[河南大学夏令营信息](https://grs.henu.edu.cn/info/1111/7882.htm)
@@ -950,6 +974,10 @@
 > [华东理工大学夏令营信息](https://gschool.ecust.edu.cn/2024/0524/c12754a167858/page.htm)
 
 > [华东理工大学预推免信息](https://gschool.ecust.edu.cn/2024/0821/c12708a170153/page.htm)
+
+## 华中师范大学
+
+【报名截止：9.18】[华中师范大学预推免](https://gs.ccnu.edu.cn/info/1028/3732.htm)
 
 ## 武汉科技大学
 

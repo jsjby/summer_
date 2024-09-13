@@ -95,7 +95,7 @@
 
 ## 中国科学技术大学
 
-> [中国科学技术大学夏令营信息](https://m.xly.ustc.edu.cn/news.php?newsid=981)
+> [中国科学技术大学夏令营信息](https://m.xly.ustc.edu.cn/news.php?newsid=981) | > [中国科学技术大学预推免信息](https://yz.ustc.edu.cn/article/2739/182?num=-1)
 
 【报名截止：9.25】[科学岛分院](https://www.hf.cas.cn/sbpy/yjsc/zs/sszs/202409/t20240910_7342840.html)
 
@@ -145,7 +145,7 @@
 
 【报名截止：9.18】[航天学院航空宇航科学与技术学科](https://sa.hit.edu.cn/2024/0829/c6582a351793/page.htm)
 
-【报名截止：9.13】[航天学院集成电路科学与工程、电子科学与技术及光学工程学科](https://sa.hit.edu.cn/2024/0829/c6582a351793/page.htm)
+~~【报名截止：9.13】[航天学院集成电路科学与工程、电子科学与技术及光学工程学科](https://sa.hit.edu.cn/2024/0829/c6582a351793/page.htm)~~
 
 ~~【报名截止：9.6】[国优计划](https://yzb.hit.edu.cn/2024/0828/c8822a351712/page.htm)~~
 
@@ -255,7 +255,7 @@
 
 【报名截止：9.14】 [航空航天学院](https://aerospace.xmu.edu.cn/info/1019/50173.htm)
 
-【报名截止：9.13】 [中国能源政策研究院](https://sm.xmu.edu.cn/info/1053/50054.htm)
+~~【报名截止：9.13】 [中国能源政策研究院](https://sm.xmu.edu.cn/info/1053/50054.htm)~~
 
 ~~【报名截止：9.12】 [萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/9799.htm)~~
 
@@ -297,7 +297,7 @@
 
 【报名截止：9.26】 [物理科学与工程学院](https://physics.tongji.edu.cn/Web/Show/3819)
 
-【报名截止：9.13】 [机械与能源工程学院](https://mefaculty.tongji.edu.cn/info/1023/4701.htm)
+~~【报名截止：9.13】 [机械与能源工程学院](https://mefaculty.tongji.edu.cn/info/1023/4701.htm)~~
 
 ~~【报名截止：8.16】 [国优计划](https://gs.tongji.edu.cn/info/1092/3678.htm)~~
 
@@ -413,7 +413,7 @@
 
 【报名截止：9.15】[储能科学与工程研究院](https://esse.tju.edu.cn/info/1008/1685.htm)
 
-【报名截止：9.13】[材料科学与工程学院](https://mse.tju.edu.cn/info/1133/4295.htm)
+~~【报名截止：9.13】[材料科学与工程学院](https://mse.tju.edu.cn/info/1133/4295.htm)~~
 
 【报名截止：9.9 9.16】[分子＋研究院](http://molecularplus.tju.edu.cn/IndustryNews/1404.html)
 
@@ -573,7 +573,7 @@
 
 【报名截止：N/A】[工学院](https://coe.cau.edu.cn/art/2024/9/12/art_39155_1036976.html)
 
-【报名截止：9.13】[工学院-工程硕博](http://coe.cau.edu.cn/art/2024/9/10/art_39155_1036636.html)
+~~【报名截止：9.13】[工学院-工程硕博](http://coe.cau.edu.cn/art/2024/9/10/art_39155_1036636.html)~~
 
 ## 中国科学院大学
 
@@ -625,6 +625,10 @@
 
 【报名截止：9.22】[​卓越工程师学院长三角基地](https://mp.weixin.qq.com/s/_IKz_8qH_TaAGZf-PG9Quw)
 
+## 杭州电子科技大学
+
+> [杭州电子科技大学预推免信息](https://grs.hdu.edu.cn/2024/0913/c1721a270374/page.htm)
+
 ## 中国工程物理研究院
 
 ~~【报名截止：6.23】 [中国工程物理研究院](https://job.lzu.edu.cn/html/74/article/2024/71975.html)~~
@@ -633,7 +637,9 @@
 
 > [北京科技大预推免信息](https://yzxc.ustb.edu.cn/xlytm/hdap/0b8e3ab055724b2eb002f7105c7e722f.htm)
 
-【报名截止：9.13】[钢铁共性技术协同创新中心](https://cicst.ustb.edu.cn/tzgg1/255951b4af0b44d880706e521df412a8.htm)
+【报名截止：9.18】[机械工程学院](https://me.ustb.edu.cn/tongzhigonggao/2024-09-13/2461.html)
+
+~~【报名截止：9.13】[钢铁共性技术协同创新中心](https://cicst.ustb.edu.cn/tzgg1/255951b4af0b44d880706e521df412a8.htm)~~
 
 ~~【报名截止：9.1】[校企联合培养工程硕博士](https://yzxc.ustb.edu.cn/xlytm/hdap/9c535140e0474e8abfa82b77a77d2f92.htm)~~
 
@@ -655,7 +661,7 @@
 
 ## 北京交通大学
 
- > [北京交通大学夏令营信息](https://gs.bjtu.edu.cn/cms/zszt/item/3011.html)
+ > [北京交通大学夏令营信息](https://gs.bjtu.edu.cn/cms/zszt/item/3011.html) |> [北京交通大学预推免信息](https://gs.bjtu.edu.cn/cms/zszt/item/3033.html)
 
 ~~【报名截止：7.1】[机械与电子控制工程学院](https://mece.bjtu.edu.cn/cms/item/4928.html)~~
 
@@ -701,9 +707,13 @@
 
 ## 哈尔滨工程大学
 
+【报名截止：9.21】 [机电工程学院](https://mp.weixin.qq.com/s/xk-O-DXUCAHiUQLIWyAxeg)
+
 ~~【报名截止：6.30】 [船舶工程学院](http://sec.hrbeu.edu.cn/2024/0607/c257a326316/page.htm)~~
 
 ## 河海大学
+
+> [河海大学预推免信息](https://gs.hhu.edu.cn/2024/0913/c17277a288594/page.htm)
 
 ~~【报名截止：7.3】 [新能源学院](https://xny.hhu.edu.cn/2024/0627/c17725a285580/page.htm?_refluxos=a10)~~
 
@@ -768,6 +778,8 @@
 > [中国矿业大学（北京）预推免信息](https://yjs.cumtb.edu.cn/info/1021/4281.htm)
 
 【报名截止：9.18】[中国矿业大学招生信息](https://yz.cumt.edu.cn/info/1003/2174.htm)
+
+【报名截止：N/A】[矿业工程学院](https://cese.cumt.edu.cn/info/1004/6698.htm)
 
 ~~【报名截止：7.18】 [矿物加工工程系（北京）](https://scee.cumtb.edu.cn/info/1083/3581.htm)~~
 
@@ -887,6 +899,12 @@
 
 【报名截止：N/A】[机械工程学院](https://sme.swjtu.edu.cn/info/1098/23421.htm)
 
+【报名截止：9.17】[电气工程学院工程硕博士](https://dqxy.swjtu.edu.cn/info/2966/221269.htm)
+
+## 西安建筑科技大学
+
+> [西安建筑科技大学预推免信息](https://yzb.xauat.edu.cn/info/1001/6456.htm)
+
 ## 上海科技大学
 
 【报名截止：9.18】[物质科学与技术学院](https://mp.weixin.qq.com/s/peEFYTQxa0feBJ2lU8hV9A)
@@ -975,7 +993,11 @@
 
 > [河北工业大学预推免信息](https://yjs.hebut.edu.cn/zsgz/zzsszszl/tzgg6/7d61972f4cd04c66bd75397cc7f35d68.htm)
 
+【报名截止：N/A】 [能源与环境工程学院](https://see.hebut.edu.cn/zsjy/yjszs/zsjza/52b43cc8a9c444ccbc4a9b42c147cba0.html)
+
 【报名截止：9.28】 [机械工程学院](https://mes.hebut.edu.cn/tzgg/b99dcc8618064db0aab58e8424af2bf7.htm)
+
+【报名截止：9.23】 [材料科学与工程学院](https://clxy.hebut.edu.cn/xygk/tzgg/b336622b730e4341a460d0ff7f045074.htm)
 
 ## 湘潭大学
 
@@ -1098,6 +1120,16 @@
 ## 西北农林科技大学
 
 > [西北农林科技大学预推免信息](https://mp.weixin.qq.com/s/y48iag1JEbDadDM6S3z-6w)
+
+## 华北电力大学
+
+> [华北电力大学预推免信息](https://yjsy.ncepu.edu.cn/zsxx/sszsxx/154d68f3e0d04945a8f38278772f632c.htm)| > [华北电力大学(保定)预推免信息](https://yjsy.ncepu.edu.cn/zsxx/sszsxx/154d68f3e0d04945a8f38278772f632c.htm)
+
+## 南通大学
+
+> [南通大学预推免信息](https://yjszs.ntu.edu.cn/2024/0913/c7626a248191/page.htm)
+
+
 
 
 

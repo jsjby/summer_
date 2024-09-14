@@ -41,13 +41,15 @@
 
 > [北京大学预推免信息](https://admission.pku.edu.cn/docs/20240910105625196643.pdf?CSRFT=XP5P-8SJL-I6PK-F9A9-F62S-SU2S-KWTG-RV4P)
 
-> [北京大学深圳预推免信息](https://admission.pkusz.edu.cn/article/view/id-233.html) 
+> [北京大学深圳预推免信息](https://admission.pkusz.edu.cn/article/view/id-233.html)
 
-【报名截止：9.14】 [工学院](https://www.coe.pku.edu.cn/announcements/college/12997.html)
+【报名截止：9.17】[工学院-工程硕博](https://www.coe.pku.edu.cn/announcements/college/13013.html)
 
-【报名截止：9.14】 [环境与能源学院](https://see.pkusz.edu.cn/info/1009/1636.htm)
+~~【报名截止：9.14】 [工学院](https://www.coe.pku.edu.cn/announcements/college/12997.html)~~
 
-【报名截止：9.14】 [新材料学院](https://sam.pkusz.edu.cn/info/1032/1864.htm)
+~~【报名截止：9.14】 [环境与能源学院](https://see.pkusz.edu.cn/info/1009/1636.htm)~~
+
+~~【报名截止：9.14】 [新材料学院](https://sam.pkusz.edu.cn/info/1032/1864.htm)~~
 
 ~~【报名截止：6.25】 [新材料学院](https://mp.weixin.qq.com/s/hEXEnCF3WRU-VrHEug1OQg)~~
 
@@ -56,6 +58,8 @@
 ~~【报名截止：6.10】 [工学院](https://www.coe.pku.edu.cn/graduate/notice/12781.html)~~
 
 ## 上海交通大学
+
+> [上海交通大学预推免信息](https://yzb.sjtu.edu.cn/info/1024/4735.htm)
 
 【报名截止：9.16】[上海交通大学与宁波东方理工大学](https://yzb.sjtu.edu.cn/info/1008/4725.htm)
 
@@ -241,7 +245,7 @@
 
 ## 电子科技大学
 
- > [电子科技大学夏令营活动信息](https://yz.uestc.edu.cn/info/1064/5074.htm)
+ > [电子科技大学夏令营活动信息](https://yz.uestc.edu.cn/info/1064/5074.htm)|> [电子科技大学预推免信息](https://mp.weixin.qq.com/s/odQoU1i2rVFafYjeFtdgAQ)
 
 ~~【报名截止：6.24】 [材料与能源学院](https://materials.uestc.edu.cn/info/1056/7062.htm)~~
 
@@ -253,7 +257,7 @@
 
 > [厦门大学预推免招生信息](https://zs.xmu.edu.cn/info/1055/30871.htm)
 
-【报名截止：9.14】 [航空航天学院](https://aerospace.xmu.edu.cn/info/1019/50173.htm)
+~~【报名截止：9.14】 [航空航天学院](https://aerospace.xmu.edu.cn/info/1019/50173.htm)~~
 
 ~~【报名截止：9.13】 [中国能源政策研究院](https://sm.xmu.edu.cn/info/1053/50054.htm)~~
 
@@ -449,9 +453,9 @@
 
 > [四川大学夏令营信息](https://yz.scu.edu.cn/zsxx/Details/077bf347-9320-487a-b4a8-69d30adb6ff7)
 
-【报名截止：9.14】[工程硕博](https://yz.scu.edu.cn/zsxx/Details/2f22f0ed-2c9c-4a5f-b702-85f1d015ec3f)
+~~【报名截止：9.14】[工程硕博](https://yz.scu.edu.cn/zsxx/Details/2f22f0ed-2c9c-4a5f-b702-85f1d015ec3f)~~
 
-【报名截止：9.14】[国优计划](https://yz.scu.edu.cn/zsxx/Details/1f093dbe-df5f-40ff-9265-cebeffb801c4)
+~~【报名截止：9.14】[国优计划](https://yz.scu.edu.cn/zsxx/Details/1f093dbe-df5f-40ff-9265-cebeffb801c4)~~
 
 ~~【报名截止：6.30】 [碳中和未来技术学院](http://ccnft.scu.edu.cn/info/1033/1841.htm)~~
 
@@ -493,7 +497,7 @@
 
 【报名截止：N/A】[工程硕博士培养改革专项](https://yz.scut.edu.cn/2024/0816/c30108a559743/page.htm)
 
-【报名截止：9.14】[吴贤铭智能工程学院](https://www2.scut.edu.cn/wusie/2024/0911/c34053a561776/page.htm)
+~~【报名截止：9.14】[吴贤铭智能工程学院](https://www2.scut.edu.cn/wusie/2024/0911/c34053a561776/page.htm)~~
 
 ## 重庆大学
 
@@ -579,7 +583,7 @@
 
 【报名截止：N/A】[核科学与技术学院](https://nuclear.ucas.ac.cn/index.php/zh-cn/zsjy/zs/bkxz/4200-tm1tz)
 
-【报名截止：9.13】[工程科学学院](https://eng.ucas.ac.cn/index.php/zh-CN/xjgl-2/2581-2025-2)
+~~【报名截止：9.13】[工程科学学院](https://eng.ucas.ac.cn/index.php/zh-CN/xjgl-2/2581-2025-2)~~
 
 ## 中国科学院
 
@@ -623,6 +627,8 @@
 
 ## 西安电子科技大学
 
+ > [西安电子科技大学报名信息](https://gr.xidian.edu.cn/info/1074/13515.htm) |  > [西安电子科技大学接收工作实施方案](https://gr.xidian.edu.cn/info/1074/13824.htm)
+
 【报名截止：9.22】[​卓越工程师学院长三角基地](https://mp.weixin.qq.com/s/_IKz_8qH_TaAGZf-PG9Quw)
 
 ## 杭州电子科技大学
@@ -661,7 +667,9 @@
 
 ## 北京交通大学
 
- > [北京交通大学夏令营信息](https://gs.bjtu.edu.cn/cms/zszt/item/3011.html) |> [北京交通大学预推免信息](https://gs.bjtu.edu.cn/cms/zszt/item/3033.html)
+> [北京交通大学夏令营信息](https://gs.bjtu.edu.cn/cms/zszt/item/3011.html) |> [北京交通大学预推免信息](https://gs.bjtu.edu.cn/cms/zszt/item/3033.html)
+
+【报名截止：9.18】[机械与电子控制工程学院](https://mece.bjtu.edu.cn/cms/item/5003.html)
 
 ~~【报名截止：7.1】[机械与电子控制工程学院](https://mece.bjtu.edu.cn/cms/item/4928.html)~~
 
@@ -921,6 +929,10 @@
 
 > [江西农业大学夏令营信息](https://yanjiusheng.jxau.edu.cn/13/19/c1035a135961/page.htm)
 
+## 江西财经大学
+
+> [江西财经大学预推免信息](https://grs.jxufe.edu.cn/news-show-4144.html)
+
 ## 武汉理工大学
 
 > [武汉理工大学夏令营信息](https://mp.weixin.qq.com/s/15I27f1O_RICNXm_hiMHHA)
@@ -1104,6 +1116,8 @@
 > [上海大学预推免信息](https://mp.weixin.qq.com/s/Uyd_LL2d9VMAauF0miQspg)
 
 ## 新疆大学
+
+> [新疆大学预推免信息](https://gs.xju.edu.cn/info/1109/4474.htm)
 
 ~~【报名截止：6.24】 [智能制造现代产业学院（机械工程学院）](https://jxxy.xju.edu.cn/nry.jsp?urltype=news.NewsContentUrl&wbtreeid=2082&wbnewsid=5024)~~
 

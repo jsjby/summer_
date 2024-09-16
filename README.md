@@ -61,7 +61,7 @@
 
 > [上海交通大学预推免信息](https://yzb.sjtu.edu.cn/info/1024/4735.htm)
 
-【报名截止：9.16】[上海交通大学与宁波东方理工大学](https://yzb.sjtu.edu.cn/info/1008/4725.htm)
+~~【报名截止：9.16】[上海交通大学与宁波东方理工大学](https://yzb.sjtu.edu.cn/info/1008/4725.htm)~~
 
 ~~【报名截止：9.11】[机械与动力工程学院 ](https://me.sjtu.edu.cn/YanJS/indexnotice/7380.html)~~
 
@@ -105,7 +105,7 @@
 
 【报名截止：9.17】[国家同步辐射实验室](https://www.nsrl.ustc.edu.cn/2024/0903/c10985a652372/page.htm)
 
-【报名截止：9.16】[中国科学技术大学与宁波东方理工大学](https://www.eitech.edu.cn/?admission=%e4%b8%ad%e5%9b%bd%e7%a7%91%e5%ad%a6%e6%8a%80%e6%9c%af%e5%a4%a7%e5%ad%a6%e4%b8%8e%e5%ae%81%e6%b3%a2%e4%b8%9c%e6%96%b9%e7%90%86%e5%b7%a5%e5%a4%a7%e5%ad%a6%ef%bc%88%e6%9a%82%e5%90%8d%ef%bc%892025-2)
+~~【报名截止：9.16】[中国科学技术大学与宁波东方理工大学](https://www.eitech.edu.cn/?admission=%e4%b8%ad%e5%9b%bd%e7%a7%91%e5%ad%a6%e6%8a%80%e6%9c%af%e5%a4%a7%e5%ad%a6%e4%b8%8e%e5%ae%81%e6%b3%a2%e4%b8%9c%e6%96%b9%e7%90%86%e5%b7%a5%e5%a4%a7%e5%ad%a6%ef%bc%88%e6%9a%82%e5%90%8d%ef%bc%892025-2)~~
 
 ~~【报名截止：9.12】[工程硕博士培养](https://yz.ustc.edu.cn/article/2734/182?num=-1)~~
 
@@ -383,7 +383,7 @@
 
 >  [东南大学夏令营](https://yzb.seu.edu.cn/2024/0613/c6676a493845/page.htm)
 
-【报名截止：9.15】[国优计划](https://xxgk.seu.edu.cn/2024/0827/c10807a501080/page.htm)
+~~【报名截止：9.15】[国优计划](https://xxgk.seu.edu.cn/2024/0827/c10807a501080/page.htm)~~
 
 ~~【报名截止：9.12】[蒙纳士大学苏州联合研究生院](https://smjgs.seu.edu.cn/2024/0902/c8471a501644/page.htm)~~
 
@@ -423,7 +423,7 @@
 
 ~~【报名截止：9.13】[材料科学与工程学院](https://mse.tju.edu.cn/info/1133/4295.htm)~~
 
-【报名截止：9.9 9.16】[分子＋研究院](http://molecularplus.tju.edu.cn/IndustryNews/1404.html)
+~~【报名截止：9.9 9.16】[分子＋研究院](http://molecularplus.tju.edu.cn/IndustryNews/1404.html)~~
 
 ~~【报名截止：9.5】[国优计划](https://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240731_323856.htm)~~
 
@@ -457,7 +457,7 @@
 
 > [四川大学夏令营信息](https://yz.scu.edu.cn/zsxx/Details/077bf347-9320-487a-b4a8-69d30adb6ff7)
 
-【报名截止：9.14】[新能源与低碳技术研究院](https://inelt.scu.edu.cn/info/1011/1740.htm)
+~~【报名截止：9.14】[新能源与低碳技术研究院](https://inelt.scu.edu.cn/info/1011/1740.htm)~~
 
 ~~【报名截止：9.14】[工程硕博](https://yz.scu.edu.cn/zsxx/Details/2f22f0ed-2c9c-4a5f-b702-85f1d015ec3f)~~
 
@@ -601,7 +601,7 @@
 
 【报名截止：9.24】[上海应用物理研究所](http://www.sinap.cas.cn/yjsjynew/zsjz/sszs_177904/202408/t20240814_7269865.html)
 
-【报名截止：9.16】[深圳先进技术研究院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202408/t20240829_7327021.html)
+~~【报名截止：9.16】[深圳先进技术研究院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202408/t20240829_7327021.html)~~
 
 ~~【报名截止：7.15】 [空天院](https://mp.weixin.qq.com/s/BvGBijMhubCOETXM2fZuJA)~~
 
@@ -753,9 +753,9 @@
 
 ## 湘潭大学
 
-【报名截止：9.15】[湘潭大学](https://yjsc.xtu.edu.cn/info/1028/4325.htm)
+~~【报名截止：9.15】[湘潭大学](https://yjsc.xtu.edu.cn/info/1028/4325.htm)~~
 
-【报名截止：9.15】[机械工程与力学学院](https://jxgc.xtu.edu.cn/info/1021/5618.htm)
+~~【报名截止：9.15】[机械工程与力学学院](https://jxgc.xtu.edu.cn/info/1021/5618.htm)~~
 
 ## 暨南大学
 
@@ -959,6 +959,10 @@
 
 > [江西财经大学预推免信息](https://grs.jxufe.edu.cn/news-show-4144.html)
 
+## 上海师范大学
+
+> [上海师范大学预推免](https://yjsc.shnu.edu.cn/6a/d1/c17206a813777/page.htm)
+
 ## 武汉理工大学
 
 > [武汉理工大学夏令营信息](https://mp.weixin.qq.com/s/15I27f1O_RICNXm_hiMHHA)
@@ -1022,6 +1026,14 @@
 ~~【报名截止：6.26】 [材料与化学学院](http://chxy.usst.edu.cn/2024/0606/c3679a321913/page.htm)~~
 
 ~~【报名截止：6.25】 [能源与动力工程学院](http://ndxy.usst.edu.cn/2024/0530/c14344a321453/page.htm)~~
+
+##  长安大学
+
+【报名截止：N/A】[电子与控制工程学院](https://ec.chd.edu.cn/info/1043/1985.htm)
+
+【报名截止：9.22】[汽车学院](https://qiche.chd.edu.cn/2024/0916/c8283a245691/page.htm)
+
+【报名截止：9.22】[能源与电气工程学院](https://ndxy.chd.edu.cn/info/1068/2448.htm)
 
 ## 长沙理工大学
 

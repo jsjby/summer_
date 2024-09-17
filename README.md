@@ -323,9 +323,19 @@
 
 > [北航夏令营信息](https://mp.weixin.qq.com/s/Xmpb74tyPoDMKTWwl7i2jQ)|> [北京航空航天大学预推免招生信息](https://mp.weixin.qq.com/s/YBdMwcKQMsvoFVG49zEJ4g)| > [北京航空航天大学各学院通知](https://yzb.buaa.edu.cn/info/1036/3154.htm)
 
+【报名截止：9.22】[机械学院](http://www.me.buaa.edu.cn/info/1074/7938.htm)
+
+【报名截止：9.20】[大装置院](https://piqs.buaa.edu.cn/info/1038/2327.htm)
+
+【报名截止：9.20】[无人系统研究院](https://wrj.buaa.edu.cn/info/1008/2278.htm)
+
+【报名截止：9.20】[航空科学与工程学院](http://www.ase.buaa.edu.cn/info/1113/14908.htm)
+
 【报名截止：9.18】[自动化科学与电气工程学院](https://dept3.buaa.edu.cn/info/1066/6485.htm)
 
 【报名截止：9.19】[能源与动力工程学院](https://sepe.buaa.edu.cn/info/1104/7511.htm)
+
+【报名截止：9.19】[材料科学与工程学院](http://www.mse.buaa.edu.cn/info/1037/7121.htm)
 
 ~~【报名截止：9.5】[国家卓越工程师学院](https://hc.buaa.edu.cn/info/1188/3834.htm)~~
 
@@ -559,6 +569,8 @@
 
 > [大连理工大学预推免信息](https://gs.dlut.edu.cn/info/1173/14906.htm)
 
+【报名截止：10.8】[国优计划](https://gs.dlut.edu.cn/info/1172/15126.htm)
+
 ~~【报名截止：9.15】[电气工程学院](https://ee.dlut.edu.cn/info/1203/8773.htm)~~
 
 ~~【报名截止：8.25】 [化工学院](https://mp.weixin.qq.com/s/sBhlUnND4J6kMB6EAKkntw)~~
@@ -650,6 +662,8 @@
 ## 北京科技大学
 
 > [北京科技大预推免信息](https://yzxc.ustb.edu.cn/xlytm/hdap/0b8e3ab055724b2eb002f7105c7e722f.htm)
+
+【报名截止：9.18】[校企联合培养工程硕博士](https://yzxc.ustb.edu.cn/xlytm/hdap/f7077ed992554cf499cba3e544d356ba.htm)
 
 【报名截止：9.18】[机械工程学院](https://me.ustb.edu.cn/tongzhigonggao/2024-09-13/2461.html)
 
@@ -765,7 +779,7 @@
 
 ## 南昌大学
 
-【报名截止：9.17】[南昌大学](http://yjsy.ncu.edu.cn/tzgg/8ac9367f17b74f429a74744e66d62534.htm)
+~~【报名截止：9.17】[南昌大学](http://yjsy.ncu.edu.cn/tzgg/8ac9367f17b74f429a74744e66d62534.htm)~~
 
 ~~【报名截止：9.11】[先进制造学院](https://jdgcxy.ncu.edu.cn/xwzx/tzgg/1940029e7e9e482c95b13f769e7c7104.htm)~~
 
@@ -773,7 +787,7 @@
 
 【报名截止：N/A】 [卓越工程师学院](https://mp.weixin.qq.com/s/tbjOZM7xPuuWytsIcAvjRg)
 
-【报名截止：9.17】 [机械工程学院工程硕博](https://sme.swjtu.edu.cn/info/1098/23991.htm)
+~~【报名截止：9.17】 [机械工程学院工程硕博](https://sme.swjtu.edu.cn/info/1098/23991.htm)~~
 
 ~~【报名截止：7.2】 [机械工程学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=8B2A674BD1718039)~~
 
@@ -792,6 +806,8 @@
 ~~【报名截止：6.30】 [汽车与交通工程学院](https://qjxy.hfut.edu.cn/info/1092/6445.htm)~~
 
 ## 上海大学
+
+【报名截止：9.25】[材料基因组工程研究院](https://mgi.shu.edu.cn/info/1062/5175.htm)
 
 ~~【报名截止：7.14】 [微电子学院](https://sme.shu.edu.cn/info/1030/4782.htm)~~
 
@@ -933,7 +949,7 @@
 
 【报名截止：N/A】[机械工程学院](https://sme.swjtu.edu.cn/info/1098/23421.htm)
 
-【报名截止：9.17】[电气工程学院工程硕博士](https://dqxy.swjtu.edu.cn/info/2966/221269.htm)
+~~【报名截止：9.17】[电气工程学院工程硕博士](https://dqxy.swjtu.edu.cn/info/2966/221269.htm)~~
 
 ## 西安建筑科技大学
 

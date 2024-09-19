@@ -473,7 +473,7 @@
 
 ## 四川大学
 
-> [四川大学夏令营信息](https://yz.scu.edu.cn/zsxx/Details/077bf347-9320-487a-b4a8-69d30adb6ff7)
+> [四川大学夏令营信息](https://yz.scu.edu.cn/zsxx/Details/077bf347-9320-487a-b4a8-69d30adb6ff7)|> [四川大学预推免信息](https://mp.weixin.qq.com/s/83ugOJn1NHTDG3A7KA--pA)|> [四川大学预推免各个学院信息](https://yz.scu.edu.cn/zsxx/Details/817e172b-a721-412c-a7dd-2495896af9c6)
 >
 > 【报名截止：9.21】[机械工程学院](https://msec.scu.edu.cn/info/1091/5846.htm)
 
@@ -795,6 +795,8 @@
 
 ## 西南交通大学
 
+> [西南交通大学预推免信息](http://yz.swjtu.edu.cn//download/ueditor/jsp/upload/file/20240919/1726733956514069280.pdf)
+
 【报名截止：N/A】 [卓越工程师学院](https://mp.weixin.qq.com/s/tbjOZM7xPuuWytsIcAvjRg)
 
 ~~【报名截止：9.17】 [机械工程学院工程硕博](https://sme.swjtu.edu.cn/info/1098/23991.htm)~~
@@ -895,7 +897,7 @@
 
 ## 北京林业大学
 
-> [北京林业大学夏令营信息](https://yanzhao.bjut.edu.cn/info/1025/15888.htm)
+> [北京林业大学夏令营信息](https://yanzhao.bjut.edu.cn/info/1025/15888.htm)|> [北京林业大学预推免信息](https://graduate.bjfu.edu.cn/zsgl/sszs/8bd98788504944d4a12b41f5235c3cc1.html)
 
 ~~【报名截止：6.25】 [工学院](http://gxy.bjfu.edu.cn/yanjiushengjiaoyu/yanjiushengzhaosheng/21274a32d7724d258a3b613904be0943.html)~~
 
@@ -949,6 +951,10 @@
 
 ~~【报名截止：6.27】 [中法工程师学院](https://mp.weixin.qq.com/s/v2cjTwtyMkMiDsIrv5_ZUw)~~
 
+## 山东师范大学
+
+> [山东师范大学预推免信息](http://www.yjszs.sdnu.edu.cn/info/1009/4065.htm)
+
 ## 西北大学
 
 > [西北大学预推免信息](https://yjs.nwu.edu.cn/info/1013/4693.htm)
@@ -994,6 +1000,10 @@
 ## 江西财经大学
 
 > [江西财经大学预推免信息](https://grs.jxufe.edu.cn/news-show-4144.html)
+
+##  常州大学
+
+> [常州大学预推免信息](https://gs.cczu.edu.cn/2024/0919/c1798a370661/page.htm)
 
 ## 上海师范大学
 

@@ -101,7 +101,7 @@
 
 > [中国科学技术大学夏令营信息](https://m.xly.ustc.edu.cn/news.php?newsid=981) | > [中国科学技术大学预推免信息](https://yz.ustc.edu.cn/article/2739/182?num=-1)
 
-【报名截止：9.25】[科学岛分院](https://www.hf.cas.cn/sbpy/yjsc/zs/sszs/202409/t20240910_7342840.html)
+~~【报名截止：9.25】[科学岛分院](https://www.hf.cas.cn/sbpy/yjsc/zs/sszs/202409/t20240910_7342840.html)~~
 
 ~~【报名截止：9.17】[国家同步辐射实验室](https://www.nsrl.ustc.edu.cn/2024/0903/c10985a652372/page.htm)~~
 
@@ -433,7 +433,7 @@
 
 ## 华中科技大学
 
-【报名截止：9.25】 [机械科学与工程学院](https://gszs.hust.edu.cn/info/1106/3841.htm)
+~~【报名截止：9.25】 [机械科学与工程学院](https://gszs.hust.edu.cn/info/1106/3841.htm)~~
 
 ~~【报名截止：9.22】 [能源与动力工程学院](https://gszs.hust.edu.cn/info/1106/3841.htm)~~
 
@@ -503,7 +503,7 @@
 
 > [四川大学夏令营信息](https://yz.scu.edu.cn/zsxx/Details/077bf347-9320-487a-b4a8-69d30adb6ff7)|> [四川大学预推免信息](https://mp.weixin.qq.com/s/83ugOJn1NHTDG3A7KA--pA)|> [四川大学预推免各个学院信息](https://yz.scu.edu.cn/zsxx/Details/817e172b-a721-412c-a7dd-2495896af9c6)
 
-【报名截止：9.25】[新能源与低碳技术研究院](https://inelt.scu.edu.cn/info/1011/1744.htm)
+~~【报名截止：9.25】[新能源与低碳技术研究院](https://inelt.scu.edu.cn/info/1011/1744.htm)~~
 
 ~~【报名截止：9.21】[机械工程学院](https://msec.scu.edu.cn/info/1091/5846.htm)~~
 
@@ -787,7 +787,7 @@
 
 ##  中国人民解放军信息工程大学
 
-【报名截止：9.25】[信息工程大学](https://mp.weixin.qq.com/s/3JCsfuMNY4Y-I9KNYItBdg)
+~~【报名截止：9.25】[信息工程大学](https://mp.weixin.qq.com/s/3JCsfuMNY4Y-I9KNYItBdg)~~
 
 ##  中国人民解放军军事科学院
 
@@ -887,7 +887,7 @@
 
 ## 上海大学
 
-【报名截止：9.25】[材料基因组工程研究院](https://mgi.shu.edu.cn/info/1062/5175.htm)
+~~【报名截止：9.25】[材料基因组工程研究院](https://mgi.shu.edu.cn/info/1062/5175.htm)~~
 
 ~~【报名截止：7.14】 [微电子学院](https://sme.shu.edu.cn/info/1030/4782.htm)~~
 
@@ -931,7 +931,7 @@
 
 > [中国石油大学（华东）](http://zs.gs.upc.edu.cn/2024/0618/c10710a434335/page.htm)
 
-【报名截止：9.25】[新能源学院（华东）](https://ne.upc.edu.cn/2024/0912/c14962a439770/page.htm)
+~~【报名截止：9.25】[新能源学院（华东）](https://ne.upc.edu.cn/2024/0912/c14962a439770/page.htm)~~
 
 ~~【报名截止：9.24】[机械与储运工程学院](https://www.cup.edu.cn/mte/sqyr/yjspy/zsdt/b1254d6fdb6a4495bd003411b44c3e6e.htm)~~
 
@@ -993,7 +993,7 @@
 
 ##  北京电子科技学院
 
-【报名截止：9.25】[北京电子科技学院](https://www.besti.edu.cn/600/2140.html)
+~~【报名截止：9.25】[北京电子科技学院](https://www.besti.edu.cn/600/2140.html)~~
 
 ##  北京化工大学
 
@@ -1111,7 +1111,7 @@
 
 > [武汉理工大学夏令营信息](https://mp.weixin.qq.com/s/15I27f1O_RICNXm_hiMHHA)
 
-【报名截止：9.25】[汽车工程学院](http://auto.whut.edu.cn/tzgg/202409/t20240920_1280749.shtml)
+~~【报名截止：9.25】[汽车工程学院](http://auto.whut.edu.cn/tzgg/202409/t20240920_1280749.shtml)~~
 
 ~~【报名截止：6.28】 [交通与物流工程学院](https://stle.whut.edu.cn/yjsjx/zsxx/202406/t20240620_1004249.shtml)~~
 
@@ -1121,7 +1121,7 @@
 
 > [南方科技大学夏令营信息](https://gs.sustech.edu.cn/#/admission/detail?current_child_id=142&id=148&article_id=3220)
 
-【报名截止：9.24】 [力学与航空航天工程系](https://mp.weixin.qq.com/s/TltgYfqcTcCbxmA6UqWQrw)
+~~【报名截止：9.24】 [力学与航空航天工程系](https://mp.weixin.qq.com/s/TltgYfqcTcCbxmA6UqWQrw)~~
 
 ~~【报名截止：9.22】 [机械与能源工程系](https://mp.weixin.qq.com/s/-Xo4_jSE3XMbWRqCFX0AzA)~~
 
@@ -1145,7 +1145,7 @@
 
 > [广东工业大学预推免信息](https://yzw.gdut.edu.cn/info/1135/7656.htm)
 
-【报名截止：9.25】 [轻工化工学院](https://qghgxy.gdut.edu.cn/info/1174/11766.htm)
+~~【报名截止：9.25】 [轻工化工学院](https://qghgxy.gdut.edu.cn/info/1174/11766.htm)~~
 
 ~~【报名截止：6.28】 [材料与能源学院](https://mp.weixin.qq.com/s/bwCo5N2KKsfdxS37mtwKNw)~~
 
